@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Michael&#39;s Prelims Site</title>
+    <link>http://michaelhealy.space/prelims/tags/</link>
+    <description>Recent content in Tags on Michael&#39;s Prelims Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Jun 2018 22:55:23 -0400</lastBuildDate>
+    
+	<atom:link href="http://michaelhealy.space/prelims/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Composition</title>
+      <link>http://michaelhealy.space/prelims/tags/composition/</link>
+      <pubDate>Sat, 09 Jun 2018 22:55:23 -0400</pubDate>
+      
+      <guid>http://michaelhealy.space/prelims/tags/composition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>http://michaelhealy.space/prelims/tags/links/</link>
+      <pubDate>Sat, 09 Jun 2018 22:55:23 -0400</pubDate>
+      
+      <guid>http://michaelhealy.space/prelims/tags/links/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>List</title>
+      <link>http://michaelhealy.space/prelims/tags/list/</link>
+      <pubDate>Sat, 09 Jun 2018 22:55:23 -0400</pubDate>
+      
+      <guid>http://michaelhealy.space/prelims/tags/list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading</title>
+      <link>http://michaelhealy.space/prelims/tags/reading/</link>
+      <pubDate>Sat, 09 Jun 2018 22:55:23 -0400</pubDate>
+      
+      <guid>http://michaelhealy.space/prelims/tags/reading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rhetoric</title>
+      <link>http://michaelhealy.space/prelims/tags/rhetoric/</link>
+      <pubDate>Sat, 09 Jun 2018 22:34:23 -0400</pubDate>
+      
+      <guid>http://michaelhealy.space/prelims/tags/rhetoric/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

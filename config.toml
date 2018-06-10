@@ -1,0 +1,8 @@
+baseURL = "http://michaelhealy.space/prelims/"
+languageCode = "en-us"
+title = "Michael's Prelims Site"
+publishdir = "docs"
+theme = "er"
+
+[params]
+showTagCloud = true
