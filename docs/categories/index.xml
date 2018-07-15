@@ -10,5 +10,14 @@
 	<atom:link href="http://michaelhealy.space/prelims/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Reading List</title>
+      <link>http://michaelhealy.space/prelims/categories/reading-list/</link>
+      <pubDate>Sun, 15 Jul 2018 13:35:40 -0400</pubDate>
+      
+      <guid>http://michaelhealy.space/prelims/categories/reading-list/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

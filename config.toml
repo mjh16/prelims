@@ -6,3 +6,7 @@ theme = "er"
 
 [params]
 showTagCloud = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
