@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minor on Michael&#39;s Prelims Site</title>
+    <link>http://michaelhealy.space/prelims/tags/minor/</link>
+    <description>Recent content in Minor on Michael&#39;s Prelims Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jul 2018 13:35:33 -0400</lastBuildDate>
+    
+	<atom:link href="http://michaelhealy.space/prelims/tags/minor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Minor List</title>
+      <link>http://michaelhealy.space/prelims/post/minor-list/</link>
+      <pubDate>Sun, 15 Jul 2018 13:35:33 -0400</pubDate>
+      
+      <guid>http://michaelhealy.space/prelims/post/minor-list/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

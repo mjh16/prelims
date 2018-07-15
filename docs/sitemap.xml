@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://michaelhealy.space/prelims/post/speciality-list/</loc>
+    <lastmod>2018-07-15T13:35:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://michaelhealy.space/prelims/post/minor-list/</loc>
+    <lastmod>2018-07-15T13:35:33-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://michaelhealy.space/prelims/post/composition-list/</loc>
     <lastmod>2018-06-09T22:55:23-04:00</lastmod>
   </url>
@@ -25,37 +35,55 @@
   
   <url>
     <loc>http://michaelhealy.space/prelims/tags/links/</loc>
-    <lastmod>2018-06-09T22:55:23-04:00</lastmod>
+    <lastmod>2018-07-15T13:35:40-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://michaelhealy.space/prelims/tags/list/</loc>
-    <lastmod>2018-06-09T22:55:23-04:00</lastmod>
+    <lastmod>2018-07-15T13:35:40-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://michaelhealy.space/prelims/</loc>
-    <lastmod>2018-06-09T22:55:23-04:00</lastmod>
+    <lastmod>2018-07-15T13:35:40-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://michaelhealy.space/prelims/tags/minor/</loc>
+    <lastmod>2018-07-15T13:35:33-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://michaelhealy.space/prelims/post/</loc>
-    <lastmod>2018-06-09T22:55:23-04:00</lastmod>
+    <lastmod>2018-07-15T13:35:40-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://michaelhealy.space/prelims/tags/reading/</loc>
-    <lastmod>2018-06-09T22:55:23-04:00</lastmod>
+    <lastmod>2018-07-15T13:35:40-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://michaelhealy.space/prelims/categories/reading-list/</loc>
+    <lastmod>2018-07-15T13:35:40-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://michaelhealy.space/prelims/tags/rhetoric/</loc>
     <lastmod>2018-06-09T22:34:23-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://michaelhealy.space/prelims/tags/specialty/</loc>
+    <lastmod>2018-07-15T13:35:40-04:00</lastmod>
     <priority>0</priority>
   </url>
   
