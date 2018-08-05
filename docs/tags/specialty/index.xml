@@ -6,6 +6,7 @@
     <description>Recent content in Specialty on Michael&#39;s Prelims Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; Copyright notice</copyright>
     <lastBuildDate>Sun, 15 Jul 2018 13:35:40 -0400</lastBuildDate>
     
 	<atom:link href="http://michaelhealy.space/prelims/tags/specialty/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +14,10 @@
     
     <item>
       <title>Specialty List</title>
-      <link>http://michaelhealy.space/prelims/post/speciality-list/</link>
+      <link>http://michaelhealy.space/prelims/posts/speciality-list/</link>
       <pubDate>Sun, 15 Jul 2018 13:35:40 -0400</pubDate>
       
-      <guid>http://michaelhealy.space/prelims/post/speciality-list/</guid>
+      <guid>http://michaelhealy.space/prelims/posts/speciality-list/</guid>
       <description></description>
     </item>
     
