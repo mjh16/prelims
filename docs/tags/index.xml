@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright notice</copyright>
-    <lastBuildDate>Sat, 09 Jun 2018 22:55:23 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 05 Aug 2018 23:45:52 -0400</lastBuildDate>
     
 	<atom:link href="https://michaelhealy.space/prelims/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Audience</title>
+      <link>https://michaelhealy.space/prelims/tags/audience/</link>
+      <pubDate>Sun, 05 Aug 2018 23:45:52 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/audience/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Composition</title>
@@ -18,6 +27,33 @@
       <pubDate>Sat, 09 Jun 2018 22:55:23 -0400</pubDate>
       
       <guid>https://michaelhealy.space/prelims/tags/composition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exigence</title>
+      <link>https://michaelhealy.space/prelims/tags/exigence/</link>
+      <pubDate>Sun, 05 Aug 2018 23:45:52 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/exigence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foundational</title>
+      <link>https://michaelhealy.space/prelims/tags/foundational/</link>
+      <pubDate>Sun, 05 Aug 2018 23:45:52 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/foundational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>https://michaelhealy.space/prelims/tags/history/</link>
+      <pubDate>Sun, 05 Aug 2018 23:45:52 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/history/</guid>
       <description></description>
     </item>
     
@@ -60,9 +96,18 @@
     <item>
       <title>Rhetoric</title>
       <link>https://michaelhealy.space/prelims/tags/rhetoric/</link>
-      <pubDate>Sat, 09 Jun 2018 22:34:23 -0400</pubDate>
+      <pubDate>Sun, 05 Aug 2018 23:45:52 -0400</pubDate>
       
       <guid>https://michaelhealy.space/prelims/tags/rhetoric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rhetorical Situation</title>
+      <link>https://michaelhealy.space/prelims/tags/rhetorical-situation/</link>
+      <pubDate>Sun, 05 Aug 2018 23:45:52 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/rhetorical-situation/</guid>
       <description></description>
     </item>
     
