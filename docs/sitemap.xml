@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://michaelhealy.space/prelims/posts/rhetoric/bitzer/</loc>
+    <lastmod>2018-08-05T23:45:52-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://michaelhealy.space/prelims/posts/speciality-list/</loc>
     <lastmod>2018-07-15T13:35:40-04:00</lastmod>
   </url>
@@ -23,6 +28,12 @@
   </url>
   
   <url>
+    <loc>https://michaelhealy.space/prelims/tags/audience/</loc>
+    <lastmod>2018-08-05T23:45:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://michaelhealy.space/prelims/categories/</loc>
     <priority>0</priority>
   </url>
@@ -30,6 +41,24 @@
   <url>
     <loc>https://michaelhealy.space/prelims/tags/composition/</loc>
     <lastmod>2018-06-09T22:55:23-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/tags/exigence/</loc>
+    <lastmod>2018-08-05T23:45:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/tags/foundational/</loc>
+    <lastmod>2018-08-05T23:45:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/tags/history/</loc>
+    <lastmod>2018-08-05T23:45:52-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,7 +76,7 @@
   
   <url>
     <loc>https://michaelhealy.space/prelims/</loc>
-    <lastmod>2018-07-15T13:35:40-04:00</lastmod>
+    <lastmod>2018-08-05T23:45:52-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -59,7 +88,7 @@
   
   <url>
     <loc>https://michaelhealy.space/prelims/posts/</loc>
-    <lastmod>2018-07-15T13:35:40-04:00</lastmod>
+    <lastmod>2018-08-05T23:45:52-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -76,8 +105,20 @@
   </url>
   
   <url>
+    <loc>https://michaelhealy.space/prelims/categories/rhetoric/</loc>
+    <lastmod>2018-08-05T23:45:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://michaelhealy.space/prelims/tags/rhetoric/</loc>
-    <lastmod>2018-06-09T22:34:23-04:00</lastmod>
+    <lastmod>2018-08-05T23:45:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/tags/rhetorical-situation/</loc>
+    <lastmod>2018-08-05T23:45:52-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -89,7 +130,7 @@
   
   <url>
     <loc>https://michaelhealy.space/prelims/tags/</loc>
-    <lastmod>2018-06-09T22:55:23-04:00</lastmod>
+    <lastmod>2018-08-05T23:45:52-04:00</lastmod>
     <priority>0</priority>
   </url>
   
