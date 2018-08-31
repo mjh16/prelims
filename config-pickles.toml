@@ -1,0 +1,95 @@
+baseURL = "https://michaelhealy.space/prelims/"
+languageCode = "en-us"
+title = "Michael's Prelims Site"
+publishdir = "docs"
+theme = "hugo_theme_pickles"
+copyright = "&copy; Copyright notice"
+
+[blackfriday]
+hrefTargetBlank = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+  [params]
+    paginate = 10
+    # Social accounts. Link to these accounts are displayed in the header and
+    # footer
+    twitter = "mhealy_rhet"
+    instagram = "mjhealy"
+    github = "mjh16"
+    author = "Michael Healy"
+    authorwebsite = "michaelhealy.space"
+    avatar = "/path/to/avatar"
+    contact =  "mailto:mhealy@fsu.edu"
+    bio = "PhD Student at FSU"
+    # Short subtitle/tagline. This is displayed in the header.
+    subtitle = "Prelims Notes and Tools"
+    # Logo image. This is displayed ogp image.
+    logo = "/path/to/logo"
+    favicon = "/path/to/favicon"
+
+
+[[menu.main]]
+  name = "Lists"
+  weight = 1
+
+  [[menu.main]]
+      parent = "Lists"
+      name = "Rhetoric"
+      url = "posts/rhetoric-list"
+      weight = 1
+
+  [[menu.main]]
+      parent = "Lists"
+      name = "Composition"
+      url = "posts/composition-list"
+      weight = 2
+
+  [[menu.main]]
+      parent = "Lists"
+      name = "Minor"
+      url = "posts/minor-list"
+      weight = 3
+
+  [[menu.main]]
+      parent = "Lists"
+      name = "Speciality"
+      url = "posts/speciaility-list"
+      weight = 4
+
+  [[menu.main]]
+      name = "Tags"
+      url = "/tags"
+      weight = 2
+
+  [[menu.main]]
+      name = "Categories"
+      url = "/categories"
+      weight = 3
+
+  [related]
+    # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
+    threshold = 80
+
+    # To get stable "See also" sections we, by default, exclude newer related pages.
+    includeNewer = false
+
+    # Will lower case keywords in both queries and in the indexes.
+    toLower = false
+
+    [[related.indices]]
+    name = "keywords"
+    weight = 150
+    [[related.indices]]
+    name  = "author"
+    toLower = true
+    weight = 30
+    [[related.indices]]
+    name  = "tags"
+    weight = 100
+    [[related.indices]]
+    name  = "date"
+    weight = 10
+    pattern = "2017"

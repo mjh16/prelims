@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright notice</copyright>
-    <lastBuildDate>Sun, 05 Aug 2018 23:45:52 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 20 Aug 2018 10:53:40 -0400</lastBuildDate>
     
 	<atom:link href="https://michaelhealy.space/prelims/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://michaelhealy.space/prelims/tags/</link>
+      <pubDate>Mon, 20 Aug 2018 10:53:40 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>80s</title>
+      <link>https://michaelhealy.space/prelims/tags/80s/</link>
+      <pubDate>Mon, 20 Aug 2018 11:41:27 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/80s/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Audience</title>
@@ -24,7 +42,7 @@
     <item>
       <title>Composition</title>
       <link>https://michaelhealy.space/prelims/tags/composition/</link>
-      <pubDate>Sat, 09 Jun 2018 22:55:23 -0400</pubDate>
+      <pubDate>Mon, 20 Aug 2018 11:41:27 -0400</pubDate>
       
       <guid>https://michaelhealy.space/prelims/tags/composition/</guid>
       <description></description>
@@ -49,11 +67,29 @@
     </item>
     
     <item>
+      <title>Foundations</title>
+      <link>https://michaelhealy.space/prelims/tags/foundations/</link>
+      <pubDate>Mon, 20 Aug 2018 11:41:27 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/foundations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>History</title>
       <link>https://michaelhealy.space/prelims/tags/history/</link>
-      <pubDate>Sun, 05 Aug 2018 23:45:52 -0400</pubDate>
+      <pubDate>Mon, 20 Aug 2018 11:41:27 -0400</pubDate>
       
       <guid>https://michaelhealy.space/prelims/tags/history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invention</title>
+      <link>https://michaelhealy.space/prelims/tags/invention/</link>
+      <pubDate>Mon, 20 Aug 2018 10:53:23 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/invention/</guid>
       <description></description>
     </item>
     
@@ -81,6 +117,24 @@
       <pubDate>Sun, 15 Jul 2018 13:35:33 -0400</pubDate>
       
       <guid>https://michaelhealy.space/prelims/tags/minor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>https://michaelhealy.space/prelims/tags/overview/</link>
+      <pubDate>Mon, 20 Aug 2018 11:41:27 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/overview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedagogy</title>
+      <link>https://michaelhealy.space/prelims/tags/pedagogy/</link>
+      <pubDate>Mon, 20 Aug 2018 11:41:27 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/pedagogy/</guid>
       <description></description>
     </item>
     
@@ -117,6 +171,33 @@
       <pubDate>Sun, 15 Jul 2018 13:35:40 -0400</pubDate>
       
       <guid>https://michaelhealy.space/prelims/tags/specialty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taxonomy</title>
+      <link>https://michaelhealy.space/prelims/tags/taxonomy/</link>
+      <pubDate>Mon, 20 Aug 2018 11:41:27 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/taxonomy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory</title>
+      <link>https://michaelhealy.space/prelims/tags/theory/</link>
+      <pubDate>Mon, 20 Aug 2018 10:53:23 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typology</title>
+      <link>https://michaelhealy.space/prelims/tags/typology/</link>
+      <pubDate>Mon, 20 Aug 2018 11:41:27 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/typology/</guid>
       <description></description>
     </item>
     

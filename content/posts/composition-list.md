@@ -2,7 +2,7 @@
 title = "Composition List"
 date = 2018-06-09T22:55:23-04:00
 draft = false
-categories = ["reading-list"]
+categories = ["reading-list","composition"]
 tags = ["composition","list","reading","links"]
 +++
 
@@ -11,12 +11,12 @@ tags = ["composition","list","reading","links"]
 Read | Notes | Post | Title
 ---|---|---|---
 Partial | X | | Berlin, James. Rhetoric and Reality: Writing Instruction in American Colleges, 1900-1985. Carbondale: Southern Illinois University Press, 1987
-X | X | | Berlin, James. “Contemporary Composition: The Major Pedagogical Theories.” College English 44.8 (Dec. 1982): 765-777.
+X | X | X | [Berlin, James. “Contemporary Composition: The Major Pedagogical Theories.” College English 44.8 (Dec. 1982): 765-777.] (/prelims/posts/composition/berlin-contemporary-comp)
 X | X | | Berlin, James. “Rhetoric and Ideology.” College English  50.5 (Sept. 1988):477-494.
-X | | | Faigley, Lester. “Competing Theories of Process: A Critique and a Proposal.” College English  48.6 (Oct. 1986): 527-542.
-X | | | Fulkerson, Richard. “Four Philosophies of Composition.” CCC 30.4 (Dec. 1979):343-348.
-X | | | Fulkerson, Richard. “Composition Theory in the Eighties: Axiological Consensus and Paradigmatic Diversity.” CCC 41.4 (Dec. 1990): 409-429.
-X | | | Fulkerson, Richard.  “Composition at the Turn of the Twenty-First Century.” CCC 56.4 (Jun. 2005): 654-687.
+X | X | | Faigley, Lester. “Competing Theories of Process: A Critique and a Proposal.” College English  48.6 (Oct. 1986): 527-542.
+X | X | | Fulkerson, Richard. “Four Philosophies of Composition.” CCC 30.4 (Dec. 1979):343-348.
+X | X | | Fulkerson, Richard. “Composition Theory in the Eighties: Axiological Consensus and Paradigmatic Diversity.” CCC 41.4 (Dec. 1990): 409-429.
+X | X | | Fulkerson, Richard.  “Composition at the Turn of the Twenty-First Century.” CCC 56.4 (Jun. 2005): 654-687.
 
 # Cluster/Research-Methodologies
 
