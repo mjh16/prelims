@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Greek on Michael&#39;s Prelims Site</title>
+    <link>https://michaelhealy.space/prelims/tags/greek/</link>
+    <description>Recent content in Greek on Michael&#39;s Prelims Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Sep 2018 22:07:13 -0400</lastBuildDate>
+    
+	<atom:link href="https://michaelhealy.space/prelims/tags/greek/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Plato - Gorgias</title>
+      <link>https://michaelhealy.space/prelims/posts/rhetoric/plato-gorgias/</link>
+      <pubDate>Tue, 04 Sep 2018 22:07:13 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/posts/rhetoric/plato-gorgias/</guid>
+      <description> One Liner Rhetoric is bad and it killed Socrates.
+Summary </description>
+    </item>
+    
+  </channel>
+</rss>

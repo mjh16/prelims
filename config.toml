@@ -1,9 +1,8 @@
-baseURL = "https://michaelhealy.space/prelims/"
+baseURL = "https://michaelhealy.space/prelims"
 languageCode = "en-us"
 title = "Michael's Prelims Site"
 publishdir = "docs"
 theme = "hugo_theme_pickles"
-copyright = "&copy; Copyright notice"
 buildfuture = "true"
 
 [taxonomies]
@@ -36,25 +35,25 @@ buildfuture = "true"
   [[menu.main]]
       parent = "Lists"
       name = "Rhetoric"
-      url = "categories/rhetoric"
+      url = "posts/rhetoric-list"
       weight = 1
 
   [[menu.main]]
       parent = "Lists"
       name = "Composition"
-      url = "categories/composition"
+      url = "posts/composition-list"
       weight = 2
 
   [[menu.main]]
       parent = "Lists"
       name = "Minor"
-      url = "categories/minor"
+      url = "posts/minor-list"
       weight = 3
 
   [[menu.main]]
       parent = "Lists"
       name = "Speciality"
-      url = "categories/speciaility"
+      url = "posts/speciality-list"
       weight = 4
 
   [[menu.main]]
