@@ -3,7 +3,7 @@ title = "Rhetoric List"
 date = 2018-06-09T22:34:23-04:00
 draft = false
 tags = ["rhetoric","list","reading","links"]
-categories = ["reading-list"]
+categories = ["reading-list","rhetoric"]
 +++
 
 # Cluster/Key-Perspectives
@@ -65,9 +65,9 @@ Read | Notes | Post | Title
 # Cluster/Rhetorical-Situation
 Read | Notes | Post | Title
 ---|---|---|---
-X | x | | Bitzer, Lloyd F. “The Rhetorical Situation.” Philosophy and Rhetoric 1.1 (Jan. 1968):         1-14.
-X | x | | Response: Vatz, Richard E. “The Myth of the Rhetorical Situation.” Philosophy                 and Rhetoric  6.3 (Summer 1973): 154-161.
-X | x | | Consigny, Scott. "Rhetoric and Its Situations.” Philosophy and Rhetoric 7.3 (Summer         1974): 175-186.
+X | x | X | [Bitzer, Lloyd F. “The Rhetorical Situation.” Philosophy and Rhetoric 1.1 (Jan. 1968): 1-14.](/prelims/posts/rhetoric/bitzer)
+X | x | X | [Response: Vatz, Richard E. “The Myth of the Rhetorical Situation.” Philosophy and Rhetoric  6.3 (Summer 1973): 154-161.](/prelims/posts/rhetoric/vatz)
+X | x | X | [Consigny, Scott. "Rhetoric and Its Situations.” Philosophy and Rhetoric 7.3 (Summer 1974): 175-186.](/prelims/posts/rhetoric/consigny)
 ---
 # Cluster/Visual-Rhetoric
 Read | Notes | Post | Title

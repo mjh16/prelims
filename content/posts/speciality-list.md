@@ -105,4 +105,4 @@ X | | | Huizinga, Johan. “Nature and Significance of Play as a Cultural Phenom
  | | | --- “The Play-Concept as Expressed in Language.” Homo Ludens: a study of the play-element in culture. Beacon P, 1950.
  | | | Newcomb, Matthew. "Sustainability as a Design Principle for Composition: Situational Creativity as a Habit of Mind." College Composition and Communication, vol. 63, no. 4, 01 June 2012, pp. 593-615.
  X | | | Rouzie, Albert. “Introduction: Play, Pleasure, and Writing Instruction.” At play in the fields of writing: a serio-Ludic Rhetoric. Hampton P, 2005
- | | | Santos, Marc C. and Megan M. McIntyre. "Toward a Technical Communication Made Whole: Disequilibrium, Creativity, and Postpedagogy." Composition Forum, vol. 33, 01 Jan. 2016
+ | | | Santos, Marc C. and Megan M. McIntyre. ["Toward a Technical Communication Made Whole: Disequilibrium, Creativity, and Postpedagogy."](https://compositionforum.com/issue/33/techcomm.php) Composition Forum, vol. 33, 01 Jan. 2016

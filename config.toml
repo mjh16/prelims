@@ -1,9 +1,9 @@
-baseURL = "https://michaelhealy.space/prelims/"
+baseURL = "https://michaelhealy.space/prelims"
 languageCode = "en-us"
 title = "Michael's Prelims Site"
 publishdir = "docs"
 theme = "hugo_theme_pickles"
-copyright = "&copy; Copyright notice"
+buildfuture = "true"
 
 [taxonomies]
   category = "categories"
@@ -18,14 +18,14 @@ copyright = "&copy; Copyright notice"
     github = "mjh16"
     author = "Michael Healy"
     authorwebsite = "michaelhealy.space"
-    avatar = "/path/to/avatar"
+    avatar = "img/creative_research.png"
     contact =  "mailto:mhealy@fsu.edu"
     bio = "PhD Student at FSU"
     # Short subtitle/tagline. This is displayed in the header.
     subtitle = "Prelims Notes and Tools"
     # Logo image. This is displayed ogp image.
-    logo = "/path/to/logo"
-    favicon = "/path/to/favicon"
+    logo = "img/creative_research.png"
+    favicon = "img/creative_research.png"
 
 
 [[menu.main]]
@@ -53,18 +53,18 @@ copyright = "&copy; Copyright notice"
   [[menu.main]]
       parent = "Lists"
       name = "Speciality"
-      url = "posts/speciaility-list"
+      url = "posts/speciality-list"
       weight = 4
 
   [[menu.main]]
       name = "Tags"
       url = "/tags"
-      weight = 2
+      weight = 4
 
   [[menu.main]]
       name = "Categories"
       url = "/categories"
-      weight = 3
+      weight = 5
 
   [related]
     # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
