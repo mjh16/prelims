@@ -18,7 +18,7 @@ buildfuture = "true"
   github = "mjh16"
   author = "Michael Healy"
   authorwebsite = "michaelhealy.space"
-  avatar = "images/creative_research.png"
+  avatar = "/prelims/images/creative_research.png"
   contact =  "mailto:mhealy@fsu.edu"
   bio = "PhD Student at FSU"
   # Short subtitle/tagline. This is displayed in the header.
