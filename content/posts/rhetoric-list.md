@@ -4,6 +4,7 @@ date = 2018-06-09T22:34:23-04:00
 draft = false
 tags = ["rhetoric","list","reading","links"]
 categories = ["reading-list","rhetoric"]
+weight = -5
 +++
 
 # Cluster/Key-Perspectives
@@ -57,8 +58,8 @@ Read | Notes | Post | Title
 ---|---|---|---
  Intro | | | Logan, Shirley Wilson.  We Are Coming: The Persuasive Discourse of Nineteenth-Century Black Women. Carbondale, IL: Southern Illinois University Press, 1999.
  X | x | | Perelman, Chaim. The Realm of Rhetoric. Notre Dame, IN: University of Notre Dame Press,         1990.
- X | x | | Plato     Phaedrus: http://classics.mit.edu/Plato/phaedrus.html
- X | x | | Gorgias: http://classics.mit.edu/Plato/gorgias.html
+ X | x | X | [Plato - Phaedrus](/prelims/posts/rhetoric/plato-phaedrus/)
+ X | x | X | [Plato - Gorgias](/prelims/posts/rhetoric/plato-gorgias/)
  Some | partial | | Richards, I. A. The Philosophy of Rhetoric. New York: Oxford University Press, 1965.
  | | | Trinh T. Minh-ha.  Woman, Native, Other: Writing Postcoloniality and Feminism: Bloomington: Indiana University Press, 1989.
 
@@ -98,8 +99,8 @@ Read | Notes | Post | Title
 # Cluster/Digital-Rhetorics
 Read | Notes | Post | Title
 ---|---|---|---
- Some | partial | | Brooke, Collin Gifford. Lingua Fracta: Toward a Rhetoric of New Media.Cresskill, NJ:         Hampton Press, 2009.
- X | x| | Delagrange, Susan H. “Chapter 4: Visual Arrangement as Inquiry.” Technologies of         Wonder: Rhetorical Practice in a Digital World. Logan, UT: Utah State             University Press: Computers and Composition Digital Press, 2011.
- X | x | | Banks, Adam J.  "Looking Forward to Look Back: Technology Access and             Transformations in African American Rhetoric.” African American Rhetoric(s):         Interdisciplinary Perspectives. Ed. Elaine B. Richardson and Ronald L. Jackson.         Carbondale, IL: Southern Illinois University Press, 2007.
- X | | | Queen, Mary. "Transnational Rhetorics in a Digital World.” College English. Special         Topic: Transnational Feminist Rhetorics (May 2008): 522-528.
- X | x | | Porter, James E.  "Recovering Delivery for Digital Rhetoric and Human-Computer         Interaction." : http://kairos.wide.msu.edu/porter/porter_digitaldelivery.pdf
+ Some | partial | | Brooke, Collin Gifford. *Lingua Fracta: Toward a Rhetoric of New Media.* Cresskill, NJ: Hampton Press, 2009.
+ X | x| | Delagrange, Susan H. “Chapter 4: Visual Arrangement as Inquiry.” *Technologies of Wonder: Rhetorical Practice in a Digital World.* Logan, UT: Utah State University Press: Computers and Composition Digital Press, 2011.
+ X | x | | Banks, Adam J.  "Looking Forward to Look Back: Technology Access and Transformations in African American Rhetoric.” African American Rhetoric(s):         Interdisciplinary Perspectives. Ed. Elaine B. Richardson and Ronald L. Jackson. Carbondale, IL: Southern Illinois University Press, 2007.
+ X | | | Queen, Mary. "Transnational Rhetorics in a Digital World.” College English. Special Topic: Transnational Feminist Rhetorics (May 2008): 522-528.
+ X | x | X | [Porter, James E. "Recovering Delivery for Digital Rhetoric and Human-Computer Interaction."](/prelims/posts/rhetoric/porter/) http://kairos.wide.msu.edu/porter/porter_digitaldelivery.pdf

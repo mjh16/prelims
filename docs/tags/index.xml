@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Michael&#39;s Prelims Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Aug 2018 10:53:40 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 06 Sep 2018 00:31:41 -0400</lastBuildDate>
     
 	<atom:link href="https://michaelhealy.space/prelims/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title></title>
       <link>https://michaelhealy.space/prelims/tags/</link>
-      <pubDate>Mon, 20 Aug 2018 10:53:40 -0400</pubDate>
+      <pubDate>Thu, 06 Sep 2018 00:31:41 -0400</pubDate>
       
       <guid>https://michaelhealy.space/prelims/tags/</guid>
       <description></description>
@@ -48,6 +48,24 @@
     </item>
     
     <item>
+      <title>Binaries</title>
+      <link>https://michaelhealy.space/prelims/tags/binaries/</link>
+      <pubDate>Tue, 04 Sep 2018 22:07:13 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/binaries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circulation</title>
+      <link>https://michaelhealy.space/prelims/tags/circulation/</link>
+      <pubDate>Tue, 04 Sep 2018 22:10:29 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/circulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Classical</title>
       <link>https://michaelhealy.space/prelims/tags/classical/</link>
       <pubDate>Tue, 04 Sep 2018 22:07:13 -0400</pubDate>
@@ -59,7 +77,7 @@
     <item>
       <title>Composition</title>
       <link>https://michaelhealy.space/prelims/tags/composition/</link>
-      <pubDate>Mon, 20 Aug 2018 11:41:27 -0400</pubDate>
+      <pubDate>Sat, 09 Jun 2018 22:55:23 -0400</pubDate>
       
       <guid>https://michaelhealy.space/prelims/tags/composition/</guid>
       <description></description>
@@ -80,6 +98,78 @@
       <pubDate>Mon, 06 Aug 2018 09:52:31 -0400</pubDate>
       
       <guid>https://michaelhealy.space/prelims/tags/critique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Definition</title>
+      <link>https://michaelhealy.space/prelims/tags/definition/</link>
+      <pubDate>Tue, 04 Sep 2018 22:07:13 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/definition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delivery</title>
+      <link>https://michaelhealy.space/prelims/tags/delivery/</link>
+      <pubDate>Tue, 04 Sep 2018 22:10:29 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/delivery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dialectic</title>
+      <link>https://michaelhealy.space/prelims/tags/dialectic/</link>
+      <pubDate>Tue, 04 Sep 2018 22:07:13 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/dialectic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital</title>
+      <link>https://michaelhealy.space/prelims/tags/digital/</link>
+      <pubDate>Tue, 04 Sep 2018 22:10:29 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/digital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution</title>
+      <link>https://michaelhealy.space/prelims/tags/distribution/</link>
+      <pubDate>Tue, 04 Sep 2018 22:10:29 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://michaelhealy.space/prelims/tags/education/</link>
+      <pubDate>Tue, 04 Sep 2018 22:07:04 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epistemology</title>
+      <link>https://michaelhealy.space/prelims/tags/epistemology/</link>
+      <pubDate>Tue, 04 Sep 2018 22:07:13 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/epistemology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethics</title>
+      <link>https://michaelhealy.space/prelims/tags/ethics/</link>
+      <pubDate>Tue, 04 Sep 2018 22:07:13 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/ethics/</guid>
       <description></description>
     </item>
     
@@ -138,15 +228,6 @@
     </item>
     
     <item>
-      <title>If</title>
-      <link>https://michaelhealy.space/prelims/tags/if/</link>
-      <pubDate>Tue, 04 Sep 2018 22:00:04 -0400</pubDate>
-      
-      <guid>https://michaelhealy.space/prelims/tags/if/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Invention</title>
       <link>https://michaelhealy.space/prelims/tags/invention/</link>
       <pubDate>Mon, 20 Aug 2018 10:53:23 -0400</pubDate>
@@ -156,9 +237,18 @@
     </item>
     
     <item>
+      <title>Just</title>
+      <link>https://michaelhealy.space/prelims/tags/just/</link>
+      <pubDate>Tue, 04 Sep 2018 22:07:13 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/just/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Links</title>
       <link>https://michaelhealy.space/prelims/tags/links/</link>
-      <pubDate>Sun, 15 Jul 2018 13:35:40 -0400</pubDate>
+      <pubDate>Sat, 09 Jun 2018 22:34:23 -0400</pubDate>
       
       <guid>https://michaelhealy.space/prelims/tags/links/</guid>
       <description></description>
@@ -167,9 +257,18 @@
     <item>
       <title>List</title>
       <link>https://michaelhealy.space/prelims/tags/list/</link>
-      <pubDate>Sun, 15 Jul 2018 13:35:40 -0400</pubDate>
+      <pubDate>Sat, 09 Jun 2018 22:34:23 -0400</pubDate>
       
       <guid>https://michaelhealy.space/prelims/tags/list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Literacy</title>
+      <link>https://michaelhealy.space/prelims/tags/literacy/</link>
+      <pubDate>Tue, 04 Sep 2018 22:07:04 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/literacy/</guid>
       <description></description>
     </item>
     
@@ -183,11 +282,20 @@
     </item>
     
     <item>
-      <title>More</title>
-      <link>https://michaelhealy.space/prelims/tags/more/</link>
-      <pubDate>Tue, 04 Sep 2018 22:00:04 -0400</pubDate>
+      <title>Morals</title>
+      <link>https://michaelhealy.space/prelims/tags/morals/</link>
+      <pubDate>Tue, 04 Sep 2018 22:07:13 -0400</pubDate>
       
-      <guid>https://michaelhealy.space/prelims/tags/more/</guid>
+      <guid>https://michaelhealy.space/prelims/tags/morals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orality</title>
+      <link>https://michaelhealy.space/prelims/tags/orality/</link>
+      <pubDate>Tue, 04 Sep 2018 22:07:04 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/orality/</guid>
       <description></description>
     </item>
     
@@ -210,9 +318,36 @@
     </item>
     
     <item>
+      <title>Persuasion</title>
+      <link>https://michaelhealy.space/prelims/tags/persuasion/</link>
+      <pubDate>Tue, 04 Sep 2018 22:07:04 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/persuasion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Place</title>
+      <link>https://michaelhealy.space/prelims/tags/place/</link>
+      <pubDate>Tue, 04 Sep 2018 22:07:04 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/place/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plato</title>
+      <link>https://michaelhealy.space/prelims/tags/plato/</link>
+      <pubDate>Tue, 04 Sep 2018 22:07:04 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/plato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reading</title>
       <link>https://michaelhealy.space/prelims/tags/reading/</link>
-      <pubDate>Sun, 15 Jul 2018 13:35:40 -0400</pubDate>
+      <pubDate>Sat, 09 Jun 2018 22:34:23 -0400</pubDate>
       
       <guid>https://michaelhealy.space/prelims/tags/reading/</guid>
       <description></description>
@@ -230,7 +365,7 @@
     <item>
       <title>Rhetoric</title>
       <link>https://michaelhealy.space/prelims/tags/rhetoric/</link>
-      <pubDate>Sun, 05 Aug 2018 23:45:52 -0400</pubDate>
+      <pubDate>Sat, 09 Jun 2018 22:34:23 -0400</pubDate>
       
       <guid>https://michaelhealy.space/prelims/tags/rhetoric/</guid>
       <description></description>
@@ -246,6 +381,15 @@
     </item>
     
     <item>
+      <title>Role</title>
+      <link>https://michaelhealy.space/prelims/tags/role/</link>
+      <pubDate>Tue, 04 Sep 2018 22:07:13 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/prelims/tags/role/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Specialty</title>
       <link>https://michaelhealy.space/prelims/tags/specialty/</link>
       <pubDate>Sun, 15 Jul 2018 13:35:40 -0400</pubDate>
@@ -255,11 +399,11 @@
     </item>
     
     <item>
-      <title>Tags</title>
-      <link>https://michaelhealy.space/prelims/tags/tags/</link>
-      <pubDate>Tue, 04 Sep 2018 22:00:04 -0400</pubDate>
+      <title>System</title>
+      <link>https://michaelhealy.space/prelims/tags/system/</link>
+      <pubDate>Tue, 04 Sep 2018 22:07:04 -0400</pubDate>
       
-      <guid>https://michaelhealy.space/prelims/tags/tags/</guid>
+      <guid>https://michaelhealy.space/prelims/tags/system/</guid>
       <description></description>
     </item>
     
@@ -275,7 +419,7 @@
     <item>
       <title>Techne</title>
       <link>https://michaelhealy.space/prelims/tags/techne/</link>
-      <pubDate>Tue, 04 Sep 2018 22:00:04 -0400</pubDate>
+      <pubDate>Tue, 04 Sep 2018 22:10:29 -0400</pubDate>
       
       <guid>https://michaelhealy.space/prelims/tags/techne/</guid>
       <description></description>
@@ -309,11 +453,11 @@
     </item>
     
     <item>
-      <title>What</title>
-      <link>https://michaelhealy.space/prelims/tags/what/</link>
-      <pubDate>Tue, 04 Sep 2018 22:00:04 -0400</pubDate>
+      <title>Value</title>
+      <link>https://michaelhealy.space/prelims/tags/value/</link>
+      <pubDate>Tue, 04 Sep 2018 22:07:13 -0400</pubDate>
       
-      <guid>https://michaelhealy.space/prelims/tags/what/</guid>
+      <guid>https://michaelhealy.space/prelims/tags/value/</guid>
       <description></description>
     </item>
     
