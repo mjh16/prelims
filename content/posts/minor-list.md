@@ -4,6 +4,7 @@ date = 2018-07-15T13:35:33-04:00
 draft = false
 tags = ["minor","list","reading","links"]
 categories = ["reading-list"]
+weight = -3
 +++
 
 ## What is it? Where did it come from?

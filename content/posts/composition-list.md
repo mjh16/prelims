@@ -4,6 +4,7 @@ date = 2018-06-09T22:55:23-04:00
 draft = false
 categories = ["reading-list","composition"]
 tags = ["composition","list","reading","links"]
+weight = -4
 +++
 
 # Overviews/Theories-of-Composition
