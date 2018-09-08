@@ -11,11 +11,11 @@ weight = -5
 
 Read | Notes | Post | Title
 ---|---|---|---
- Selections | | | Anzaldúa, Gloria. Borderlands/LaFrontera: The New Mestiza. 3rd. ed. San Francisco: Aunt Lute, 2007.
- X | X | | Aristotle.  Rhetoric.
- | | | Bakhtin, M.M., and Michael Holquist. “Discourse in the Novel.” The Dialogic Imagination. Austin: University of Texas Press, 1981.
- | | | Bakhtin, M.M., Michael Holquist, Vern McGee, and Caryl Emerson. “The Problem with Speech Genres.” Speech Genres and Other Late Essays. Austin: University of         Texas Press, 1986.
-Different context | | | Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.”  Illuminations: Essays and Reflections. Trans. Harry Zohn. Ed. Hannah Arendt. New York: Schocken, 1968. 217-51.
+ Selections | | | [Anzaldúa, Gloria. Borderlands/LaFrontera: The New Mestiza. 3rd. ed. San Francisco: Aunt Lute, 2007.](/prelims/posts/rhetoric/anzaldua/)
+ X | X | | [Aristotle.  Rhetoric.](/prelims/posts/rhetoric/aristotle/)
+ | | | [Bakhtin, M.M., and Michael Holquist. “Discourse in the Novel.” The Dialogic Imagination. Austin: University of Texas Press, 1981.](/prelims/posts/rhetoric/bakhtin-discourse/)
+ | | | [Bakhtin, M.M., Michael Holquist, Vern McGee, and Caryl Emerson. “The Problem with Speech Genres.” Speech Genres and Other Late Essays. Austin: University of Texas Press, 1986.](/prelims/posts/rhetoric/bakhtin-speech-genres/)
+Different context | | | [Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.”  Illuminations: Essays and Reflections. Trans. Harry Zohn. Ed. Hannah Arendt. New York: Schocken, 1968. 217-51.](/prelims/posts/rhetoric/benjamin/)
 
 ---
 
@@ -23,14 +23,14 @@ Different context | | | Benjamin, Walter. “The Work of Art in the Age of Mecha
 
 Read | Notes | Post | Title
 ---|---|---|---
- X | x | | A Grammar of Motives. New York: Prentice-Hall, Inc, 1945 (Part 1)
- Some | some | | A Rhetoric of Motives. New York: Prentice-Hall, 1952 (Parts 1 and 2)
- X | X | | “Terministic Screens.” Language as Symbolic Action: Essays on Life, Literature, and             Method. Berkeley: University of California Press, 1966.
- X | x | | “Definition of Man.” Language as Symbolic Action: Essays on Life, Literature, and             Method. Berkeley: University of California Press, 1966.
+ X | X | | [A Grammar of Motives. New York: Prentice-Hall, Inc, 1945 (Part 1)](/prelims/posts/rhetoric/burke-grammar)
+ Some | some | | [A Rhetoric of Motives. New York: Prentice-Hall, 1952 (Parts 1 and 2)](/prelims/posts/rhetoric/burke-rhetoric)
+ X | X | | [“Terministic Screens.” Language as Symbolic Action: Essays on Life, Literature, and             Method. Berkeley: University of California Press, 1966.](/prelims/posts/rhetoric/burker-terministic-screens)
+ X | X | | [“Definition of Man.” Language as Symbolic Action: Essays on Life, Literature, and             Method. Berkeley: University of California Press, 1966.](/prelims/posts/rhetoric/burke-definition-of-man)
 ---
 Read | Notes | Post | Title
 ---|---|---|---
-Intro and skim | | | Clark, Gregory, and S. Michael Halloran, ed.  Oratorical Culture in Nineteenth-Century America: Transformations in the Theory and Practice of Rhetoric. Carbondale: Southern Illinois University Press, 1993.
+Intro and skim | | | [Clark, Gregory, and S. Michael Halloran, ed.  Oratorical Culture in Nineteenth-Century America: Transformations in the Theory and Practice of Rhetoric. Carbondale: Southern Illinois University Press, 1993.](/prelims/posts/rhetoric/clark-halloran)
 
 ---
 
@@ -38,9 +38,10 @@ Intro and skim | | | Clark, Gregory, and S. Michael Halloran, ed.  Oratorical Cu
 
 Read | Notes | Post | Title
 ---|---|---|---
- | | | “The Discourse on Language.” *The Archaeology of Knowledge*. New York: Pantheon         Books, 1972.  (Appendix to The Archaeology of Knowledge). *The History of Sexuality*. New York: Vintage Books 1985.  (Parts 1 and 2)
- | | | “Docile Bodies.” *Discipline and Punish*. New York: Vintage Books, 1995.
- | | | “Panopticon.” *Discipline and Punish*. New York: Vintage Books, 1995.
+ | | | [“The Discourse on Language.” *The Archaeology of Knowledge*. New York: Pantheon Books, 1972.  (Appendix to The Archaeology of Knowledge).](/prelims/posts/rhetoric/foucault-discourse)
+ | | | [*The History of Sexuality*. New York: Vintage Books 1985.  (Parts 1 and 2)](/prelims/posts/rhetoric/foucault-history-of-sexuality)
+ | | | [“Docile Bodies.” *Discipline and Punish*. New York: Vintage Books, 1995.](/prelims/posts/rhetoric/foucault-docile-bodies)
+ | | | [“Panopticon.” *Discipline and Punish*. New York: Vintage Books, 1995.](/prelims/posts/rhetoric/foucault-panopticon)
 
 ---
 
@@ -48,27 +49,27 @@ Read | Notes | Post | Title
 
 Read | Notes | Post | Title
 ---|---|---|---
- X | x | | "The Cyborg Manifesto” The Haraway Reader. New York: Routledge, 2003.
- X | x | | "Situated Knowledges: The Science Question in Feminism and the Privilege of Partial             Perspective.” Feminist Studies 14.3 (Autumn 1988): 575-599.
- X | x | | *Companion Species Manifesto*. Chicago: Prickly Paradigm Press, 2003.
+ X | X | | ["The Cyborg Manifesto” The Haraway Reader. New York: Routledge, 2003.](/prelims/posts/rhetoric/haraway-cyborg)
+ X | X | | ["Situated Knowledges: The Science Question in Feminism and the Privilege of Partial             Perspective.” Feminist Studies 14.3 (Autumn 1988): 575-599.](/prelims/posts/rhetoric/haraway-situated-knowledges)
+ X | X | | [*Companion Species Manifesto*. Chicago: Prickly Paradigm Press, 2003.](/prelims/posts/rhetoric/haraway-companion-species)
 
 ---
 
 Read | Notes | Post | Title
 ---|---|---|---
  Intro | | | Logan, Shirley Wilson.  We Are Coming: The Persuasive Discourse of Nineteenth-Century Black Women. Carbondale, IL: Southern Illinois University Press, 1999.
- X | x | | Perelman, Chaim. The Realm of Rhetoric. Notre Dame, IN: University of Notre Dame Press,         1990.
- X | x | X | [Plato - Phaedrus](/prelims/posts/rhetoric/plato-phaedrus/)
- X | x | X | [Plato - Gorgias](/prelims/posts/rhetoric/plato-gorgias/)
+ X | X | | Perelman, Chaim. The Realm of Rhetoric. Notre Dame, IN: University of Notre Dame Press,         1990.
+ X | X | X | [Plato - Phaedrus](/prelims/posts/rhetoric/plato-phaedrus/)
+ X | X | X | [Plato - Gorgias](/prelims/posts/rhetoric/plato-gorgias/)
  Some | partial | | Richards, I. A. The Philosophy of Rhetoric. New York: Oxford University Press, 1965.
  | | | Trinh T. Minh-ha.  Woman, Native, Other: Writing Postcoloniality and Feminism: Bloomington: Indiana University Press, 1989.
 
 # Cluster/Rhetorical-Situation
 Read | Notes | Post | Title
 ---|---|---|---
-X | x | X | [Bitzer, Lloyd F. “The Rhetorical Situation.” Philosophy and Rhetoric 1.1 (Jan. 1968): 1-14.](/prelims/posts/rhetoric/bitzer)
-X | x | X | [Response: Vatz, Richard E. “The Myth of the Rhetorical Situation.” Philosophy and Rhetoric  6.3 (Summer 1973): 154-161.](/prelims/posts/rhetoric/vatz)
-X | x | X | [Consigny, Scott. "Rhetoric and Its Situations.” Philosophy and Rhetoric 7.3 (Summer 1974): 175-186.](/prelims/posts/rhetoric/consigny)
+X | X | X | [Bitzer, Lloyd F. “The Rhetorical Situation.” Philosophy and Rhetoric 1.1 (Jan. 1968): 1-14.](/prelims/posts/rhetoric/bitzer)
+X | X | X | [Response: Vatz, Richard E. “The Myth of the Rhetorical Situation.” Philosophy and Rhetoric  6.3 (Summer 1973): 154-161.](/prelims/posts/rhetoric/vatz)
+X | X | X | [Consigny, Scott. "Rhetoric and Its Situations.” Philosophy and Rhetoric 7.3 (Summer 1974): 175-186.](/prelims/posts/rhetoric/consigny)
 ---
 # Cluster/Visual-Rhetoric
 Read | Notes | Post | Title
@@ -99,8 +100,8 @@ Read | Notes | Post | Title
 # Cluster/Digital-Rhetorics
 Read | Notes | Post | Title
 ---|---|---|---
- Some | partial | | Brooke, Collin Gifford. *Lingua Fracta: Toward a Rhetoric of New Media.* Cresskill, NJ: Hampton Press, 2009.
- X | x| | Delagrange, Susan H. “Chapter 4: Visual Arrangement as Inquiry.” *Technologies of Wonder: Rhetorical Practice in a Digital World.* Logan, UT: Utah State University Press: Computers and Composition Digital Press, 2011.
- X | x | | Banks, Adam J.  "Looking Forward to Look Back: Technology Access and Transformations in African American Rhetoric.” African American Rhetoric(s):         Interdisciplinary Perspectives. Ed. Elaine B. Richardson and Ronald L. Jackson. Carbondale, IL: Southern Illinois University Press, 2007.
- X | | | Queen, Mary. "Transnational Rhetorics in a Digital World.” College English. Special Topic: Transnational Feminist Rhetorics (May 2008): 522-528.
- X | x | X | [Porter, James E. "Recovering Delivery for Digital Rhetoric and Human-Computer Interaction."](/prelims/posts/rhetoric/porter/) http://kairos.wide.msu.edu/porter/porter_digitaldelivery.pdf
+ Intro and skim - Have read before | partial | X | [Brooke, Collin Gifford. *Lingua Fracta: Toward a Rhetoric of New Media.* Cresskill, NJ: Hampton Press, 2009.](/prelims/posts/rhetoric/brooke/)
+ X | X | X | [Delagrange, Susan H. “Chapter 4: Visual Arrangement as Inquiry.” *Technologies of Wonder: Rhetorical Practice in a Digital World.* Logan, UT: Utah State University Press: Computers and Composition Digital Press, 2011.](/prelims/posts/rhetoric/delagrange/)
+ X | X | X | [Banks, Adam J.  "Looking Forward to Look Back: Technology Access and Transformations in African American Rhetoric.” African American Rhetoric(s):         Interdisciplinary Perspectives. Ed. Elaine B. Richardson and Ronald L. Jackson. Carbondale, IL: Southern Illinois University Press, 2007.](/prelims/posts/rhetoric/banks/)
+ X | In-Text | X | [Queen, Mary. "Transnational Rhetorics in a Digital World.” College English. Special Topic: Transnational Feminist Rhetorics (May 2008): 522-528.](/prelims/posts/rhetoric/queen/)
+ X | X | X | [Porter, James E. "Recovering Delivery for Digital Rhetoric and Human-Computer Interaction."](/prelims/posts/rhetoric/porter/) http://kairos.wide.msu.edu/porter/porter_digitaldelivery.pdf
