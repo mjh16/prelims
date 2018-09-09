@@ -43,9 +43,9 @@ Read | Notes | Post | Title
 ### Haraway, Donna J.
 Read | Notes | Post | Title
 ---|---|---|---
- X | X | | ["The Cyborg Manifesto” The Haraway Reader. New York: Routledge, 2003.](/prelims/posts/rhetoric/haraway-cyborg)
- X | X | | ["Situated Knowledges: The Science Question in Feminism and the Privilege of Partial             Perspective.” Feminist Studies 14.3 (Autumn 1988): 575-599.](/prelims/posts/rhetoric/haraway-situated-knowledges)
- X | X | | [*Companion Species Manifesto*. Chicago: Prickly Paradigm Press, 2003.](/prelims/posts/rhetoric/haraway-companion-species)
+ X | X | X | ["The Cyborg Manifesto” The Haraway Reader. New York: Routledge, 2003.](/prelims/posts/rhetoric/haraway-cyborg)
+ X | X | X | ["Situated Knowledges: The Science Question in Feminism and the Privilege of Partial             Perspective.” Feminist Studies 14.3 (Autumn 1988): 575-599.](/prelims/posts/rhetoric/haraway-situated-knowledges)
+ X | X | X | [*Companion Species Manifesto*. Chicago: Prickly Paradigm Press, 2003.](/prelims/posts/rhetoric/haraway-companion-species)
 ---
 # Cluster/Rhetorical-Situation
 Read | Notes | Post | Title
