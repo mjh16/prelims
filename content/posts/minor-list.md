@@ -39,7 +39,9 @@ Read | Notes | Post | Title
 
 Shamoon, Linda K.; Rebecca Moore Howard; Sandra Jamieson; Robert A. Schweglere (Eds.), Coming of age: The advanced writing curriculum; Portsmouth, NH: Boynton/Cook. 2000.
 
-  - **Selections? Did I decide not to use this book?**
+Read | Notes | Post | Title
+---|---|---|---
+
 
 ---
 
@@ -94,7 +96,7 @@ X | | | Gebhardt, Richard. “The Subject Is Writing.” Journal of Advanced Com
 Read | Notes | Post | Title
 ---|---|---|---
  | | | Prior, Paul. Writing/Disciplinarity: A Sociohistoric Account of Literate Activity in the Academy. Hillsdale: Lawrence Erlbaum, 1998.
- | | | Skinnell, Ryan. Conceding Composition: A Crooked History of Composition’s Institutional Fortunes. Utah State UP, 2016.
+ X | | | Skinnell, Ryan. Conceding Composition: A Crooked History of Composition’s Institutional Fortunes. Utah State UP, 2016.
 
 ---
 
@@ -131,7 +133,7 @@ Read | Notes | Post | Title
 
 Read | Notes | Post | Title
 ---|---|---|---
- | | | Kimball, Elizabeth; Emily Schnee; Liesl Schwabe. (Fall 2015). Writing the personal in an outcomes-based world. Composition Studies 43.2, 113-131.
+ X | | | Kimball, Elizabeth; Emily Schnee; Liesl Schwabe. (Fall 2015). Writing the personal in an outcomes-based world. Composition Studies 43.2, 113-131.
 
 
 ---
