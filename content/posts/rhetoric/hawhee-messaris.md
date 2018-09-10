@@ -1,8 +1,8 @@
 +++
-title = "Hawhee Messaris"
+title = "Hawhee Messaris What's Visual about 'Visual Rhetoric’?"
 date = 2018-09-04T22:07:45-04:00
 draft = true
-tags = ["",""]
+tags = ["visual",""]
 categories = "rhetoric"
 +++
 ### One Liner

@@ -1,15 +1,19 @@
 +++
 title = "Hill Helmers"
 date = 2018-09-04T22:07:53-04:00
-draft = true
-tags = ["",""]
-categories = "rhetoric"
+draft = false
+tags = ["visual",""]
+categories = ["rhetoric","edited-collection"]
 +++
 ### One Liner
-A one line to help remember.
+Defining visual rhetoircs - an edited collection
 
 ### Summary
-What are the salient points. Think about what the piece is, the argument, etc
+#### Intro
+Notes
+
+#### Foss
+
 
 ### Uses, Thoughts, and Connections
 What do you think about it, how might you use this, does it fit?

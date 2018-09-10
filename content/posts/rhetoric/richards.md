@@ -6,7 +6,7 @@ tags = ["metaphor","interinanimation","return-to"]
 categories = "rhetoric"
 +++
 ### One Liner
-The study of misunderstading, working to understand them, and proposes rhetoric as the remedy.
+The study of misunderstanding, working to understand them, and proposes rhetoric as the remedy.
 
 ### Summary
 Pushes against traditional understandings of rhetoric as correctness, usage, and persuasion. Works with the aims of discourse, interinanimation of words, defintions, and metaphors to illustrate the purpose of discourse. Words themselves are just a part of the meaning, only know what they mean with other things around it.
