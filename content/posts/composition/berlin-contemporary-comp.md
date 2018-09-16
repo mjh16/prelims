@@ -24,6 +24,7 @@ Argues that each stance creates a reality under which composition is taught and 
 
 ## Usage, Thoughts, and Connections
 In direct conversation with Fulkerson and Faigley (even if not always cited). Also in conversation with the individual schools and groups of thought that he identifies.
+
 - pedagogy
 - Praxis
 - Tensions between pedagogy and theory

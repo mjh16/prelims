@@ -11,21 +11,21 @@ weight = -4
 
 Read | Notes | Post | Title
 ---|---|---|---
-Partial | X | | Berlin, James. Rhetoric and Reality: Writing Instruction in American Colleges, 1900-1985. Carbondale: Southern Illinois University Press, 1987
+Partial | X | X | [Berlin, James. Rhetoric and Reality: Writing Instruction in American Colleges, 1900-1985. Carbondale: Southern Illinois University Press, 1987](/prelims/posts/composition/berlin-rhetoric-and-reality/)
 X | X | X | [Berlin, James. “Contemporary Composition: The Major Pedagogical Theories.” College English 44.8 (Dec. 1982): 765-777.] (/prelims/posts/composition/berlin-contemporary-comp)
-X | X | | Berlin, James. “Rhetoric and Ideology.” College English  50.5 (Sept. 1988):477-494.
-X | X | | Faigley, Lester. “Competing Theories of Process: A Critique and a Proposal.” College English  48.6 (Oct. 1986): 527-542.
-X | X | | Fulkerson, Richard. “Four Philosophies of Composition.” CCC 30.4 (Dec. 1979):343-348.
-X | X | | Fulkerson, Richard. “Composition Theory in the Eighties: Axiological Consensus and Paradigmatic Diversity.” CCC 41.4 (Dec. 1990): 409-429.
-X | X | | Fulkerson, Richard.  “Composition at the Turn of the Twenty-First Century.” CCC 56.4 (Jun. 2005): 654-687.
+X | X | X | [Berlin, James. “Rhetoric and Ideology.” College English  50.5 (Sept. 1988):477-494.](/prelims/posts/composition/berlin-rhetoric-and-ideology/)
+X | X | X | [Faigley, Lester. “Competing Theories of Process: A Critique and a Proposal.” College English  48.6 (Oct. 1986): 527-542.](/prelims/posts/composition/faigley/)
+X | X | X | [Fulkerson, Richard. “Four Philosophies of Composition.” CCC 30.4 (Dec. 1979):343-348.](/prelims/posts/composition/fulkerson-four-philosophies/)
+X | X | X | [Fulkerson, Richard. “Composition Theory in the Eighties: Axiological Consensus and Paradigmatic Diversity.” CCC 41.4 (Dec. 1990): 409-429.](/prelims/posts/composition/fulkerson-comp-80s/)
+X | X | X | [Fulkerson, Richard.  “Composition at the Turn of the Twenty-First Century.” CCC 56.4 (Jun. 2005): 654-687.](/prelims/posts/composition/fulkerson-comp-21st)
 
 # Cluster/Research-Methodologies
 
 Read | Notes | Post | Title
 ---|---|---|---
-X | | | Johanek, Cindy. Composing Research. Logan, Utah: Utah State University Press, 2000.
-X | Partial | | North, Stephen. The Making of Knowledge in Composition: Portrait of an Emerging Field. Upper Montclair, NJ: Boyton/Cook Publishers, 1987.
-X | X | | Fleckenstein, Kristie S., Clay Spinuzzi,  Rebecca J. Rickly, and Carole Clark Papper. “The Importance of Harmony: An Ecological Metaphor for Writing Research” CCC 60.2 (Dec 2008): 388-419.
+X | X | Maybe Return | [Johanek, Cindy. Composing Research. Logan, Utah: Utah State University Press, 2000.](/prelims/posts/composition/johanek/)
+X | Partial | Return for details | [North, Stephen. The Making of Knowledge in Composition: Portrait of an Emerging Field. Upper Montclair, NJ: Boyton/Cook Publishers, 1987.](/prelims/posts/composition/north/)
+X | X | X | [Fleckenstein, Kristie S., Clay Spinuzzi,  Rebecca J. Rickly, and Carole Clark Papper. “The Importance of Harmony: An Ecological Metaphor for Writing Research” CCC 60.2 (Dec 2008): 388-419.](/prelims/posts/composition/fleckenstein-et-al-harmony/)
 
 # Cluster/Genre
 
@@ -52,10 +52,10 @@ Read | Notes | Post | Title
 
 Read | Notes | Post | Title
 ---|---|---|---
- X | X | | Bazerman, Charles, and David R. Russell.  Writing Selves/Writing Societies: Research from Activity Perspectives. (see http://wac.colostate.edu/books/selves_societies/
+ X | X | X | [Bazerman, Charles, and David R. Russell.  Writing Selves/Writing Societies: Research from Activity Perspectives.](/prelims/posts/composition/bazerman-russell/) (see http://wac.colostate.edu/books/selves_societies/
  X | | | Bruffee, Kenneth A. “Collaborative Learning and the ‘Conversation of Mankind’” College English 46.7 (Nov. 1984): 635-652.
  X | X | | Cooper, Marilyn. “The Ecology of Writing.” College English 48.4 (Apr. 1986): 364-375.
- X | X | | Cooper, Marilyn. “Rhetorical Agency as Emergent and Enacted.” CCC 62.3 (Feb 2011): 420-449.
+ X | X | X | [Cooper, Marilyn. “Rhetorical Agency as Emergent and Enacted.” CCC 62.3 (Feb 2011): 420-449.](/prelims/posts/composition/cooper-rhetorical-agency/)
  X | | | Faigley, Lester. Fragments of Rationality: Post Modernity and the Subject of                 Composition. Pittsburgh: University of Pittsburgh Press, 1992.
  | | | Harris, Joseph. “The Idea of Community in the Study of Writing”  CCC 40.1 (Feb. 1989): 11-22.
  X | X | | Johnson-Eilola, Johnson, and Stuart Selber. “Plagiarism, Originality, Assemblage” Computers and Composition 24.4 (2007): 375-403.

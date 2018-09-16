@@ -12,6 +12,7 @@ Ideology always already present in the teaching of composition.
 Explores ideology in the writing classroom through the rhetoric of composition theories. Argues that different theories of composition reflect different ideologies that highlight the epistemological assumptions of that theory. These ideologies structure the classroom and the discourses and power that they represent. Argues that the work of composition should be to bring awareness to the power of ideologies inside and outside of the classroom. Gives a social project and more explicitly ideological imperative to teach the class and to teach it well.
 
 Ideologies at play in composition:
+
 - Cognitive psychology/process
 - Expressivist
 - Social-Epistemic
