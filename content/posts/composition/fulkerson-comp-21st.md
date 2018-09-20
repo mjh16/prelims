@@ -2,7 +2,7 @@
 title = "Fulkerson, Richard - 'Composition at the Turn of the Twenty-First Century'"
 date = 2018-09-08T00:12:09-04:00
 draft = false
-tags = ["2005","axiology","consistency","critical-cultural studies","expressivism","field/discipline","theory","philosophy","goals","rhetoric","genre"]
+tags = ["2005","axiology","consistency","critical-cultural-studies","expressivism","field/discipline","theory","philosophy","goals","rhetoric","genre"]
 categories = "composition"
 +++
 ### One Liner
@@ -31,4 +31,4 @@ Because of this, we should seek better disciplinary understanding and agreement,
 Sees composition as a less unified field now, and that there is a need for coherence and consistency in axiology, procedure, methodology, and pedagogy.
 
 ### Uses, Thoughts, and Connections
-Lots of recommendations and some pretty good summary of what could appear as a inconsistent and incoherent field and assemblage of approaches and theories. Could be useful to work towards a recommendation, or towards greater contextual awareness, or perhaps towards or away form something. Would be very useful in a discipline vs. field argument, what the nature of composition is. Does seem to conflate composition with FYC thoughout, and I will need to check to see if that is consistent. 
+Lots of recommendations and some pretty good summary of what could appear as a inconsistent and incoherent field and assemblage of approaches and theories. Could be useful to work towards a recommendation, or towards greater contextual awareness, or perhaps towards or away form something. Would be very useful in a discipline vs. field argument, what the nature of composition is. Does seem to conflate composition with FYC thoughout, and I will need to check to see if that is consistent.

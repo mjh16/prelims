@@ -1,7 +1,7 @@
 +++
 title = "Skinnell Conceeding Composition"
 date = 2018-09-06T00:31:41-04:00
-draft = false
+draft = true
 tags = ["",""]
 categories = ""
 +++
