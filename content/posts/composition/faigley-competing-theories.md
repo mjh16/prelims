@@ -2,7 +2,7 @@
 title = "Faigley, Lester - 'Competing Theories of Process: A Critique and Proposal'"
 date = 2018-09-04T22:30:01-04:00
 draft = false
-tags = ["process","history","1985",""]
+tags = ["process","history","1985"]
 categories = "composition"
 +++
 ## One Liner
@@ -25,4 +25,4 @@ Human language can only be understood from the perspective of society rather tha
 Argues, however, that composing and writing are influenced by many and a variety of factors. This is especially true for social concerns and community contexts in relationship to the tools and technologies and practices of writing. Explores the paradoxes of literacy and writing in various contexts, and their relationships to power and society. Suggests a socially aware research approach that brings in a variety of views and contexts into conversation in researching the variety of contextualized processes.
 
 ## Uses, Thoughts, and Connections
-Starts us thinking about post-process in relationship to process. A clear movement towards social construction and ideology. Useful to think about different intersections and views of process. 
+Starts us thinking about post-process in relationship to process. A clear movement towards social construction and ideology. Useful to think about different intersections and views of process.
