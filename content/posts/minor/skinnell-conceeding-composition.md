@@ -1,9 +1,9 @@
 +++
-title = "Skinnell Conceeding Composition"
+title = "Skinnell, Ryan. Conceding Composition: A Crooked History of Composition’s Institutional Fortunes"
 date = 2018-09-06T00:31:41-04:00
 draft = true
-tags = ["",""]
-categories = ""
+tags = ["concession","institution","composition","english","department"]
+categories = ["minor","monograph"]
 +++
 ### One Liner
 A one line to help remember.
