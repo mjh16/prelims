@@ -18,8 +18,43 @@
   </url>
   
   <url>
-    <loc>https://michaelhealy.space/prelims/posts/speciality-list/</loc>
+    <loc>https://michaelhealy.space/prelims/posts/specialty-list/</loc>
     <lastmod>2018-07-15T13:35:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/posts/specialty/rice/</loc>
+    <lastmod>2018-09-29T11:20:21-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/posts/specialty/prior-et-al/</loc>
+    <lastmod>2018-09-28T12:15:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/posts/specialty/delagrange-design/</loc>
+    <lastmod>2018-09-27T23:36:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/posts/specialty/ballif/</loc>
+    <lastmod>2018-09-26T22:40:52-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/posts/specialty/basgier/</loc>
+    <lastmod>2018-09-26T20:41:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/posts/minor/howard-advanced-comp/</loc>
+    <lastmod>2018-09-23T20:24:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/posts/minor/scott-wardle/</loc>
+    <lastmod>2018-09-23T18:30:51-04:00</lastmod>
   </url>
   
   <url>
@@ -203,6 +238,11 @@
   </url>
   
   <url>
+    <loc>https://michaelhealy.space/prelims/posts/minor/skinnell-conceeding-composition/</loc>
+    <lastmod>2018-09-06T00:31:41-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://michaelhealy.space/prelims/posts/composition/fulkerson-four-philosophies/</loc>
     <lastmod>2018-09-06T00:24:21-04:00</lastmod>
   </url>
@@ -308,7 +348,7 @@
   </url>
   
   <url>
-    <loc>https://michaelhealy.space/prelims/posts/speciality/lefevre/</loc>
+    <loc>https://michaelhealy.space/prelims/posts/specialty/lefevre/</loc>
     <lastmod>2018-08-20T10:53:23-04:00</lastmod>
   </url>
   
@@ -334,8 +374,20 @@
   </url>
   
   <url>
+    <loc>https://michaelhealy.space/prelims/tags/</loc>
+    <lastmod>2018-09-27T23:36:40-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://michaelhealy.space/prelims/tags/1945/</loc>
     <lastmod>2018-09-04T22:04:02-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/tags/1963/</loc>
+    <lastmod>2018-09-29T11:20:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -394,14 +446,26 @@
   </url>
   
   <url>
+    <loc>https://michaelhealy.space/prelims/tags/1998/</loc>
+    <lastmod>2018-09-26T22:40:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://michaelhealy.space/prelims/tags/2000/</loc>
-    <lastmod>2018-09-08T00:20:11-04:00</lastmod>
+    <lastmod>2018-09-23T20:24:40-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://michaelhealy.space/prelims/tags/2005/</loc>
     <lastmod>2018-09-08T00:12:09-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/tags/2007/</loc>
+    <lastmod>2018-09-29T11:20:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -413,7 +477,7 @@
   
   <url>
     <loc>https://michaelhealy.space/prelims/tags/2011/</loc>
-    <lastmod>2018-09-16T10:15:18-04:00</lastmod>
+    <lastmod>2018-09-26T20:41:07-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -462,6 +526,12 @@
   <url>
     <loc>https://michaelhealy.space/prelims/tags/advanced-composition/</loc>
     <lastmod>2018-09-22T14:34:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/tags/advanced-writing/</loc>
+    <lastmod>2018-09-23T20:24:40-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -532,6 +602,12 @@
   </url>
   
   <url>
+    <loc>https://michaelhealy.space/prelims/tags/author-function/</loc>
+    <lastmod>2018-09-26T20:41:07-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://michaelhealy.space/prelims/tags/axiology/</loc>
     <lastmod>2018-09-08T00:12:09-04:00</lastmod>
     <priority>0</priority>
@@ -557,7 +633,7 @@
   
   <url>
     <loc>https://michaelhealy.space/prelims/tags/canons/</loc>
-    <lastmod>2018-09-04T22:10:04-04:00</lastmod>
+    <lastmod>2018-09-28T12:15:36-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -575,7 +651,13 @@
   
   <url>
     <loc>https://michaelhealy.space/prelims/tags/chat/</loc>
-    <lastmod>2018-09-16T09:34:19-04:00</lastmod>
+    <lastmod>2018-09-28T12:15:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/tags/chora/</loc>
+    <lastmod>2018-09-29T11:20:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -676,6 +758,12 @@
   </url>
   
   <url>
+    <loc>https://michaelhealy.space/prelims/tags/concession/</loc>
+    <lastmod>2018-09-06T00:31:41-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://michaelhealy.space/prelims/tags/consistency/</loc>
     <lastmod>2018-09-08T00:12:09-04:00</lastmod>
     <priority>0</priority>
@@ -706,6 +794,12 @@
   </url>
   
   <url>
+    <loc>https://michaelhealy.space/prelims/tags/cool/</loc>
+    <lastmod>2018-09-29T11:20:21-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://michaelhealy.space/prelims/tags/counterdiscourse/</loc>
     <lastmod>2018-09-22T14:34:47-04:00</lastmod>
     <priority>0</priority>
@@ -731,7 +825,7 @@
   
   <url>
     <loc>https://michaelhealy.space/prelims/tags/cyborg/</loc>
-    <lastmod>2018-09-04T22:10:29-04:00</lastmod>
+    <lastmod>2018-09-26T22:40:52-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -778,6 +872,24 @@
   </url>
   
   <url>
+    <loc>https://michaelhealy.space/prelims/tags/design/</loc>
+    <lastmod>2018-09-27T23:36:40-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/tags/destabilize/</loc>
+    <lastmod>2018-09-26T20:41:07-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/tags/development/</loc>
+    <lastmod>2018-09-23T18:30:51-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://michaelhealy.space/prelims/tags/dialectic/</loc>
     <lastmod>2018-09-04T22:07:13-04:00</lastmod>
     <priority>0</priority>
@@ -785,13 +897,19 @@
   
   <url>
     <loc>https://michaelhealy.space/prelims/tags/digital/</loc>
-    <lastmod>2018-09-17T22:15:44-04:00</lastmod>
+    <lastmod>2018-09-29T11:20:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://michaelhealy.space/prelims/tags/digital-divide/</loc>
     <lastmod>2018-09-04T22:10:19-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/tags/digitalization/</loc>
+    <lastmod>2018-09-26T20:41:07-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -857,7 +975,7 @@
   
   <url>
     <loc>https://michaelhealy.space/prelims/tags/embodied/</loc>
-    <lastmod>2018-09-16T10:15:18-04:00</lastmod>
+    <lastmod>2018-09-27T23:36:40-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -971,7 +1089,7 @@
   
   <url>
     <loc>https://michaelhealy.space/prelims/tags/feminist/</loc>
-    <lastmod>2018-09-04T22:10:13-04:00</lastmod>
+    <lastmod>2018-09-26T22:40:52-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1019,7 +1137,7 @@
   
   <url>
     <loc>https://michaelhealy.space/prelims/tags/genre/</loc>
-    <lastmod>2018-09-19T22:34:03-04:00</lastmod>
+    <lastmod>2018-09-26T20:41:07-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1073,7 +1191,7 @@
   
   <url>
     <loc>https://michaelhealy.space/prelims/tags/history/</loc>
-    <lastmod>2018-09-21T17:24:18-04:00</lastmod>
+    <lastmod>2018-09-29T11:20:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1092,6 +1210,12 @@
   <url>
     <loc>https://michaelhealy.space/prelims/tags/ideology/</loc>
     <lastmod>2018-09-06T00:24:21-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/tags/implementation/</loc>
+    <lastmod>2018-09-23T18:30:51-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1222,8 +1346,14 @@
   </url>
   
   <url>
+    <loc>https://michaelhealy.space/prelims/tags/maybe/</loc>
+    <lastmod>2018-09-06T00:31:41-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://michaelhealy.space/prelims/tags/mediation/</loc>
-    <lastmod>2018-09-16T09:34:19-04:00</lastmod>
+    <lastmod>2018-09-28T12:15:36-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1252,6 +1382,12 @@
   </url>
   
   <url>
+    <loc>https://michaelhealy.space/prelims/tags/metis/</loc>
+    <lastmod>2018-09-26T22:40:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://michaelhealy.space/prelims/</loc>
     <lastmod>2018-06-09T22:34:23-04:00</lastmod>
     <priority>0</priority>
@@ -1265,7 +1401,7 @@
   
   <url>
     <loc>https://michaelhealy.space/prelims/categories/minor/</loc>
-    <lastmod>2018-09-22T20:35:32-04:00</lastmod>
+    <lastmod>2018-09-23T20:24:40-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1319,7 +1455,13 @@
   
   <url>
     <loc>https://michaelhealy.space/prelims/tags/new-media/</loc>
-    <lastmod>2018-09-04T22:10:13-04:00</lastmod>
+    <lastmod>2018-09-29T11:20:21-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/tags/nodes/</loc>
+    <lastmod>2018-09-28T12:15:36-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1379,7 +1521,7 @@
   
   <url>
     <loc>https://michaelhealy.space/prelims/tags/pedagogy/</loc>
-    <lastmod>2018-09-18T15:00:58-04:00</lastmod>
+    <lastmod>2018-09-29T11:20:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1427,7 +1569,7 @@
   
   <url>
     <loc>https://michaelhealy.space/prelims/tags/politics/</loc>
-    <lastmod>2018-09-04T22:06:14-04:00</lastmod>
+    <lastmod>2018-09-23T20:24:40-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1546,6 +1688,12 @@
   </url>
   
   <url>
+    <loc>https://michaelhealy.space/prelims/tags/remediation/</loc>
+    <lastmod>2018-09-28T12:15:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://michaelhealy.space/prelims/tags/remix/</loc>
     <lastmod>2018-09-16T13:59:45-04:00</lastmod>
     <priority>0</priority>
@@ -1565,7 +1713,13 @@
   
   <url>
     <loc>https://michaelhealy.space/prelims/tags/return-to/</loc>
-    <lastmod>2018-09-22T20:35:13-04:00</lastmod>
+    <lastmod>2018-09-28T12:15:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/tags/revision/</loc>
+    <lastmod>2018-09-23T18:30:51-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1642,6 +1796,12 @@
   </url>
   
   <url>
+    <loc>https://michaelhealy.space/prelims/tags/sophistic/</loc>
+    <lastmod>2018-09-26T22:40:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://michaelhealy.space/prelims/tags/special-issue/</loc>
     <lastmod>2018-09-21T19:55:19-04:00</lastmod>
     <priority>0</priority>
@@ -1649,7 +1809,13 @@
   
   <url>
     <loc>https://michaelhealy.space/prelims/categories/speciality/</loc>
-    <lastmod>2018-08-20T10:53:23-04:00</lastmod>
+    <lastmod>2018-09-26T22:40:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/categories/specialty/</loc>
+    <lastmod>2018-09-29T11:20:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1715,7 +1881,7 @@
   
   <url>
     <loc>https://michaelhealy.space/prelims/tags/</loc>
-    <lastmod>2018-09-04T22:04:02-04:00</lastmod>
+    <lastmod>2018-09-27T23:36:40-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1746,6 +1912,12 @@
   <url>
     <loc>https://michaelhealy.space/prelims/tags/theory/</loc>
     <lastmod>2018-09-22T14:34:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/tags/threshold-concepts/</loc>
+    <lastmod>2018-09-23T18:30:51-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1842,6 +2014,12 @@
   <url>
     <loc>https://michaelhealy.space/prelims/tags/visuals/</loc>
     <lastmod>2018-09-17T22:15:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://michaelhealy.space/prelims/tags/webtext/</loc>
+    <lastmod>2018-09-26T20:41:07-04:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -37,11 +37,11 @@ Read | Notes | Post | Title
  | | | Dick, Rodney F. “The Writing Major as Shared Commitment.” Pp. 98-129
  | | | Tweedie Sanford, Jennifer Courtney, and William I. Wolff. “What Exactly is this Major?’ Creating Disciplinary Identity through an Introductory Course.” Pp. 260-276.
 
-Shamoon, Linda K.; Rebecca Moore Howard; Sandra Jamieson; Robert A. Schweglere (Eds.), Coming of age: The advanced writing curriculum; Portsmouth, NH: Boynton/Cook. 2000.
+Shamoon, Linda K.; Rebecca Moore d; Sandra Jamieson; Robert A. Schweglere (Eds.), Coming of age: The advanced writing curriculum; Portsmouth, NH: Boynton/Cook. 2000.
 
 Read | Notes | Post | Title
 ---|---|---|---
-
+X | X | X | [Howard, Rebecca Moore. "History, Politics, Pedagogym and Advanced Writing"](/prelims/posts/minor/howard-advanced-comp/)
 ---
 
 ### Composition Studies Issues:
@@ -117,7 +117,7 @@ Read | Notes | Post | Title
  | | | Mendenhall, Annie. "The Historical Problem of Vertical Coherence: Writing, Research, and Legitimacy in Early 20Th Century Rhetoric and Composition." Composition Studies, vol. 41, no. 1, 2013, p. 84-100.
  | | | Phelps, Louise Wetherbee and John Ackerman “Making the Case for Disciplinarity in Rhetoric, Composition, and Writing Studies: The Visibility Project.” College Composition and Communication, vol. 62, no. 1, 2010, pp. 180-215. DOI: 10.2307/27917890
 X | | | Scott, J. Blake and Lisa Meloncon. “Writing and Rhetoric Majors, Disciplinarity, and Teche.” Composition Forum, vol. 35, 2017. http://compositionforum.com/issue/35/majors.php
-X | | | Scott, J. Blake and Elizabeth Wardle. “Using Threshold Concepts to Inform Writing and Rhetoric Undergraduate Majors The UCF Experiment.” Naming What We Know Threshold Concepts of Writing Studies Ed. Adler-Kassner, Linda and Elizabeth Wardle. Logan: Utah State UP, 2015. 122-139
+X | X | X | [Scott, J. Blake and Elizabeth Wardle. “Using Threshold Concepts to Inform Writing and Rhetoric Undergraduate Majors The UCF Experiment.” Naming What We Know Threshold Concepts of Writing Studies Ed. Adler-Kassner, Linda and Elizabeth Wardle. Logan: Utah State UP, 2015. 122-139](/prelims/posts/minor/scott-wardle/)
  | | | Weiser, Irwin. “Local Research and Curriculum Development: Using Surveys to Learn About Writing Assignments in the Disciplines.” The Writing Program Administrator as Researcher. Ed. Shirley K. Rose and Irwin Weiser. Westport, CT: Heinemann Boynton/Cook, 1999. 95-106.
  | | | Warnock, Scott, et al. "Measuring Quality, Evaluating Curricular Change: A 7-Year Assessment of Undergraduate Business Student Writing." Journal of Business and Technical Communication, vol. 31, no. 2, n.d., pp. 135-167.
  | | | Yancey, Kathleen Blake, Leigh Graziano, Rory Lee, and Jennifer O’Malley. “Reflection, ePortfolios, and WEPO: A Reflective account of New Practices in a New Curriculum.” Reflection and Metacognition in College Teaching. Eds. Matthew Kaplan, Naomi Silver, Danielle LaVaque-Manty, and Deborah Meizlish. Washington D.C: Stylus Press, 2013, pp. 175-203.
