@@ -15,7 +15,7 @@ Read | Notes | Post | Title
 ---|---|---|---
  X | | | [Alcorn, Marshall W. Changing the Subject in English Class: Discourse and the Construction of Desire. Southern Illinois UP, 2002.](/prelims/posts/specialty/alcorn/)
  | | | [Hawk, Byron. A Counter-History of Composition: Toward Methodologies of Complexity. U of Pittsburgh P, 2007.](/prelims/posts/specialty/hawk/)
- X | X | | [Lauer, Janice. Invention in Rhetoric and Composition. West Lafayette, Parlor Press, 2004.](/prelims/posts/specialty/lauer/)
+ X | X | X | [Lauer, Janice. Invention in Rhetoric and Composition. West Lafayette, Parlor Press, 2004.](/prelims/posts/specialty/lauer/)
  X | X | X | [LeFevre, Karen Burke. Invention as a social act. Southern Illinois University Press, 1986.](/prelims/posts/specialty/lefevre/)
  Intro and Skim | X | | [Pender, Kelly. Techne, from Neoclassicism to Postmodernism: Understanding Writing as a Useful, Teachable Art](/prelims/posts/specialty/pender/)
  | | | [Ulmer, Gregory. Heuretics: The Logic of Invention. The Johns Hopkins UP, 1994.](/prelims/posts/specialty/ulmer/)
@@ -26,8 +26,8 @@ Read | Notes | Post | Title
 
 Read | Notes | Post | Title
 ---|---|---|---
- X | X | X | [Basgier, Christopher. “The author-function, the genre function, and the rhetoric of scholarly webtexts.” Computers and Composition, vol. 28, no. 2, 2011.](/prelims/posts/specialty/besgier/)
- X | | | [Delagrange, Susan. “Embodiment and Design.” Technologies of Wonder. Logan, Computers and Composition Digital Press, 2011. http://ccdigitalpress.org/book/wonder/Chapter3.pdf](/prelims/posts/specialty/delagrange-design/)
+ X | X | X | [Basgier, Christopher. “The author-function, the genre function, and the rhetoric of scholarly webtexts.” Computers and Composition, vol. 28, no. 2, 2011.](/prelims/posts/specialty/basgier/)
+ X | X | X | [Delagrange, Susan. “Embodiment and Design.” Technologies of Wonder. Logan, Computers and Composition Digital Press, 2011. http://ccdigitalpress.org/book/wonder/Chapter3.pdf](/prelims/posts/specialty/delagrange-design/)
  X | X | Return-To | [Prior, Paul et al.. “Re-situating and Re-mediating the Canons: A Cultural-historical remapping of rhetorical activity.” Kairos: A Journal of Rhetoric, Technology, and Pedagogy, vol 11, no. 3, 2007, http://kairos.technorhetoric.net/11.3/binder.html?topoi/prior-et-al/index.html.](/prelims/posts/specialty/prior-et-al/)
  X | | | [Phillips, Kendall. “Spaces of Invention: Dissension, Freedom and Thought in Foucault.” Philosophy and Rhetoric](/prelims/posts/specialty/phillips/)
  X | | | [Rorty, Richard. “The Invention of the Mind.” Philosophy and the Mirror of Nature. Princeton UP, Princeton, 1979.](/prelims/posts/specialty/rorty/)
@@ -54,8 +54,8 @@ Read | Notes | Post | Title
 
 Read | Notes | Post | Title
 ---|---|---|---
- X | X | X | [Ballif, Michelle. “Writing the third-sophistic cyborg: periphrasis on an [in]tense rhetoric.” Rhetoric Society Quarterly, vol. 28, no. 4, 1998](/prelims/posts/specialty/ballif/)
- X | | | Brock, Kevin. “Enthymeme and Rhetorical Algorithm.” Present Tense: A Journal of Rhetoric in Society, vol. 4, no. 1, 2014. http://www.presenttensejournal.org/volume-4/enthymeme-as-rhetorical-algorithm/
+ X | X | X | [Ballif, Michelle. “Writing the third-sophistic cyborg: periphrasis on an (in)tense rhetoric.” Rhetoric Society Quarterly, vol. 28, no. 4, 1998](/prelims/posts/specialty/ballif/)
+ X |  | | Brock, Kevin. “Enthymeme and Rhetorical Algorithm.” Present Tense: A Journal of Rhetoric in Society, vol. 4, no. 1, 2014. http://www.presenttensejournal.org/volume-4/enthymeme-as-rhetorical-algorithm/
  | | | Brooke, Collin Gifford. “Making Room, Writing Hypertext.” JAC vol. 19, no 2, 1999, pp. 253-268.
  | | | —-. “Disorientalism: A Manifesto for Ineffective Hypertext Design.” Rhetoric and Technology in the Next Millennium. William E. Tanner and Suzanne S. Webb, eds. Mesquite, TX: Caxton’s Modern Art Press, 1998.
  X | | | Delagrange, Susan. “Media Machines, Devices of Wonder.” Technologies of Wonder. Logan, Computers and Composition Digital Press, 2011. http://ccdigitalpress.org/book/wonder/Chapter5.pdf
@@ -94,10 +94,10 @@ Read | Notes | Post | Title
 
  Read | Notes | Post | Title
  ---|---|---|---
- X | | | Alexander, Kara Poe, and Danielle M. Williams. “DMAC After Dark: Towards a Theory of Distributed Invention.” Computers and Composition, vol. 36, 2015.
- | | | Bacha, Jeffery A. “The Physical Mundane as Topos: Walking/Dwelling/Using as Rhetorical Invention.” College Composition and Communication, vol. 68, no. 2, 2016.
+ X | X | X | [Alexander, Kara Poe, and Danielle M. Williams. “DMAC After Dark: Towards a Theory of Distributed Invention.” Computers and Composition, vol. 36, 2015.](/prelims/posts/specialty/alexander-williams/)
+ X | | | Bacha, Jeffery A. “The Physical Mundane as Topos: Walking/Dwelling/Using as Rhetorical Invention.” College Composition and Communication, vol. 68, no. 2, 2016.
  | | | Banaji, Shakuntala and Andrew Burn. "Creativity through a Rhetorical Lens: Implications for Schooling, Literacy and Media Education." Literacy, vol. 41, no. 2, 01 July 2007, pp. 62-70.
- | | | Brodkey, Linda. “Modernism and the Scene(s) of Writing.” College English 49.4 (April 1987): 396-418.
+ X | X | X | [Brodkey, Linda. “Modernism and the Scene(s) of Writing.” College English 49.4 (April 1987): 396-418.](/prelims/posts/specialty/brodkey/)
  | | | Chess, Shira. “I Am What I Play and I Play What I Am: Constitutive Rhetoric and the Casual Games Market.” Theorizing Digital Rhetoric, Aaron Hess and Amber Davisson, eds. New York, Routledge, 2018, pp. 224-233.
  X | | | Csikszentmihalyi, Mihaly. “Flow and Creativity.” The Namta Journal, vol. 22, no. 2, 1997.
  | | | Daniel-Wariya, Joshua. “A Language of Play: New Media’s Possibility Spaces.” Computers and Composition, vol. 40, 2016.
