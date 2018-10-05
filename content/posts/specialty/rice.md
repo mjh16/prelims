@@ -13,7 +13,9 @@ Proposes cool as a rhetorical theory that is especially appropriate for new medi
 
 ### Ch. 2 - Chora
 
-Builds cool as a topoi, with common meanings and understandings related to popular culture, that moves from the fixity of print based understadings to a choral motion of new media. 
+Builds cool as a topoi, with common meanings and understandings related to popular culture, that moves from the fixity of print based understandings to a choral motion of new media. Chora is a particular way un which to demonstrate digital and new media's rhetorical moves by dealing with and using its connections and interrelated knowledge. The chora, as the space outside and in-between, and with digital writing, as a series of digital patterns and performances of how meaning is made from the interactions. Uses the hyperlink as an examples, itself, of this movement of chora. Choral movemnt and linkages are exposed in their movement in new media texts.
+
+Chora figures as the central movement by which other new media rhetorics are expressed, and cool is the central organizing concept. The chora offers the means by which different propositions are laid out, and are then played with, as they are expressed and produce meaning.
 
 ## Uses, Thoughts, and Connections
-What do you think about it, how might you use this, does it fit?
+Chora, movement, cool, play, invention. Has some obvious linkages with Rickert, even so far as connecting to the Chora.
