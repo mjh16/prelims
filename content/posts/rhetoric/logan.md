@@ -1,8 +1,8 @@
 +++
-title = "Logan"
+title = "Shirley Wilson Logan - We Are Coming: The Persuasive Discourse of Nineteenth-Century Black Women"
 date = 2018-09-04T22:06:41-04:00
-draft = true
-tags = ["",""]
+draft = false
+tags = ["women","feminist","19th-century","oratory","recovery"]
 categories = "rhetoric"
 +++
 ### One Liner

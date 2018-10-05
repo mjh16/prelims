@@ -22,7 +22,7 @@ Chaim Perelman | *[The Realm of Rhetoric.](/prelims/posts/rhetoric/perelman/)* |
 Plato | [Phaedrus](/prelims/posts/rhetoric/plato-phaedrus/) | Classical
 Plato | [Gorgias](/prelims/posts/rhetoric/plato-gorgias/) | Classical
 I. A. Richards | *[The Philosophy of Rhetoric](/prelims/posts/rhetoric/richards/)* | 1965
-Trinh T. Minh-ha.  | *[Woman, Native, Other: Writing Postcoloniality and Feminism](/prelims/posts/rhetoric/minh-ha/)* | 1989.
+Trinh T. Minh-ha | *[Woman, Native, Other: Writing Postcoloniality and Feminism](/prelims/posts/rhetoric/minh-ha/)* | 1989.
 
 ### Burke, Kenneth.
 Title | Date
@@ -58,26 +58,26 @@ Scott Consigny | ["Rhetoric and Its Situations.”](/prelims/posts/rhetoric/cons
 Author | Title | Date
 ---|---|---
 David S. Birdsell and Leo Groarke | [“Toward a Theory of Visual Argument.”](/prelims/posts/rhetoric/birdsell-groarke/) | 1996
-Debra Hawhee and Paul Messaris | "What's Visual about 'Visual Rhetoric’?" | 2009
-Charles A. Hill and Marguerite Helmers | *Defining Visual Rhetorics.* | 2004.
+Debra Hawhee and Paul Messaris | ["What's Visual about 'Visual Rhetoric’?"](/prelims/posts/rhetoric/hawhee-messaris/) | 2009
+Charles A. Hill and Marguerite Helmers | [*Defining Visual Rhetorics.*](/prelims/posts/rhetoric/hill-helmers/) | 2004.
 
 # Cluster/Feminist-Rhetorics
 Author | Title | Date
 ---|---|---
-Karlyn Kohns Campbell | “The Rhetoric of Women’s Liberation: An Oxymoron” | 1999
-Barbara Biesecker | Response: "Coming to Terms with Recent Attempts to Write Women into the History of Rhetoric.” | 1992
-Karlyn Kohrs Campbell | Reply: "Biesecker Cannot Speak for Her Either.” | 1993
-Lisa Ede, Cheryl Glenn, and Andrea Lunsford | "Border Crossings: Intersections of Rhetoric and Feminism." | 1995
-Sonja K. Foss and Cindy L. Griffin | "Beyond Persuasion: A Proposal for Invitational Rhetoric” | 1995
-Janice D. Hamlet | "Assessing Womanist Thought: The Rhetoric of Susan L. Taylor." | 2000
+Karlyn Kohns Campbell | [“The Rhetoric of Women’s Liberation: An Oxymoron”](/prelims/posts/rhetoric/campbell/) | 1999
+Barbara Biesecker | [Response: "Coming to Terms with Recent Attempts to Write Women into the History of Rhetoric.”](/prelims/posts/rhetoric/biesecker/) | 1992
+Karlyn Kohrs Campbell | [Reply: "Biesecker Cannot Speak for Her Either.”](/prelims/posts/rhetoric/campbell-reply/) | 1993
+Lisa Ede, Cheryl Glenn, and Andrea Lunsford | ["Border Crossings: Intersections of Rhetoric and Feminism."](/prelims/posts/rhetoric/ede-glenn-lunsford/) | 1995
+Sonja K. Foss and Cindy L. Griffin | ["Beyond Persuasion: A Proposal for Invitational Rhetoric”](/prelims/posts/rhetoric/foss-griffin/) | 1995
+Janice D. Hamlet | ["Assessing Womanist Thought: The Rhetoric of Susan L. Taylor."](/prelims/posts/rhetoric/hamlet/) | 2000
 
 # Cluster/African-American-Rhetorics
 Author | Title | Date
 ---|---|---
-Henry Louis Gates Jr. | “The Signifying Monkey and the Language of Signifyin(g)” | 1998
-Keith Gilyard | "Introduction: Aspects of African American Rhetoric as a Field.” | 2007.
-Arthur L. Smith (Molefi Kete Assante) | "Socio-Historical Perspectives of Black  Oratory.” | 1970
-Mark Lawrence McPhil | "The Politics of (In)visiblity in African American Rhetorical Scholarship: A (Re)quest for an African Worldview” | 2003
+Henry Louis Gates Jr. | [“The Signifying Monkey and the Language of Signifyin(g)”](/prelims/posts/rhetoric/gates/) | 1998
+Keith Gilyard | ["Introduction: Aspects of African American Rhetoric as a Field.”](/prelims/posts/rhetoric/gilyard/) | 2007.
+Arthur L. Smith (Molefi Kete Assante) | ["Socio-Historical Perspectives of Black  Oratory.”](/prelims/posts/rhetoric/smith/) | 1970
+Mark Lawrence McPhil | ["The Politics of (In)visiblity in African American Rhetorical Scholarship: A (Re)quest for an African Worldview”](/prelims/posts/rhetoric/mcphail/) | 2003
 
 # Cluster/Digital-Rhetorics
 Author | Title | Date
