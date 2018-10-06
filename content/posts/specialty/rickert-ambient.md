@@ -1,5 +1,5 @@
 +++
-title = "Rickert Ambient"
+title = "Thomas Rickert Ambient"
 date = 2018-09-28T12:22:40-04:00
 draft = true
 tags = ["",""]
