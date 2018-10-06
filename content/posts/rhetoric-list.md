@@ -1,6 +1,6 @@
 +++
 title = "Rhetoric List"
-date = 2018-06-09T22:34:23-04:00
+date = 2018-10-05T15:18:01-04:00
 draft = false
 tags = ["rhetoric","list","reading","links"]
 categories = ["reading-list","rhetoric"]
