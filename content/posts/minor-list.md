@@ -107,52 +107,47 @@ Skinnell, Ryan | [*Conceding Composition: A Crooked History of Composition’s I
 
 ### Articles
 
-Read | Notes | Post | Title
----|---|---|---
+Author | Title | Date
+---|---|---
 Ali, Liaqat |  ["The Design of Curriculum, Assessment and Evaluation in Higher Education with Constructive Alignment." *Journal of Education and E-Learning Research*](/prelims/posts/minor/ali/) | 2018
  Dyehouse, Jeremiah, Michael Pennell, and Linda K. Shamoon | ["Writing in electronic environments': A concept and a course for the writing and rhetoric major” *College Composition and Communication*](/prelims/posts/minor/dyehouse-pennell-shamoon/) | 2009
 Fleckenstein, Kristie S., Kathleen Blake Yancey, Matthew Davis, and Katherine T. Bridgman | [“Program Sustainability: Curricular Resilience in Florida State University’s Editing, Writing, and Media Concentration.” *South Atlantic Review*](/prelims/posts/minor/fleckenstein-yancey-davis-bridgman/) | 2013
 Giberson, Greg, Lori Ostergaard, Jennifer Clary-Lemon, Jennifer Courtney, Kelly Kinney, and Brad Lucas | ["A Changing Profession Changing a Discipline: Junior Faculty and the Undergraduate Major." *Composition Forum*](/prelims/posts/minor/giberson-et-al/) [^4] | 2009
+Kimball, Elizabeth, Emily Schnee, Liesl Schwabe | ["Writing the personal in an outcomes-based world" *Composition Studies*](/prelims/posts/minor/kimball-schnee-schwabe/) | 2015
 Mendenhall, Annie | ["The Historical Problem of Vertical Coherence: Writing, Research, and Legitimacy in Early 20Th Century Rhetoric and Composition." *Composition Studies*](/prelims/posts/minor/mendenhall/) | 2013
 Phelps, Louise Wetherbee and John Ackerman | [“Making the Case for Disciplinarity in Rhetoric, Composition, and Writing Studies: The Visibility Project.” *College Composition and Communication*](/prelims/posts/minor/phelps-ackerman/) | 2010
 Scott, J. Blake and Lisa Meloncon | [“Writing and Rhetoric Majors, Disciplinarity, and Teche.” *Composition Forum*](/prelims/posts/minor/blake-meloncon/) [^5] | 2017
 Scott, J. Blake and Elizabeth Wardle | [“Using Threshold Concepts to Inform Writing and Rhetoric Undergraduate Majors The UCF Experiment.” *Naming What We Know Threshold Concepts of Writing Studies* Ed. Adler-Kassner, Linda and Elizabeth Wardle](/prelims/posts/minor/scott-wardle/) | 2015
 Weiser, Irwin | [“Local Research and Curriculum Development: Using Surveys to Learn About Writing Assignments in the Disciplines.” The Writing Program Administrator as Researcher. Ed. Shirley K. Rose and Irwin Weiser](/prelims/posts/minor/weiser/) | 1999
-Warnock, Scott, et al. | ["Measuring Quality, Evaluating Curricular Change: A 7-Year Assessment of Undergraduate Business Student Writing." Journal of Business and Technical Communication, vol. 31, no. 2, n.d., pp. 135-167.
- | | | Yancey, Kathleen Blake, Leigh Graziano, Rory Lee, and Jennifer O’Malley. “Reflection, ePortfolios, and WEPO: A Reflective account of New Practices in a New Curriculum.” Reflection and Metacognition in College Teaching. Eds. Matthew Kaplan, Naomi Silver, Danielle LaVaque-Manty, and Deborah Meizlish. Washington D.C: Stylus Press, 2013, pp. 175-203.
-
-#### 43.2 2015 - Followup Articles on the State of the Writing Major
-
-Read | Notes | Post | Title
----|---|---|---
- X | | | Kimball, Elizabeth; Emily Schnee; Liesl Schwabe. (Fall 2015). Writing the personal in an outcomes-based world. Composition Studies 43.2, 113-131.
+Scott Warnock, Nicholas Rouse, Christopher Finnin, Frank Linnehan, and Dylan Dryer | ["Measuring Quality, Evaluating Curricular Change: A 7-Year Assessment of Undergraduate Business Student Writing." *Journal of Business and Technical Communication*](/prelims/posts/minor/warnock-et-al/) | 2017
+Yancey, Kathleen Blake, Leigh Graziano, Rory Lee, and Jennifer O’Malley. | [“Reflection, ePortfolios, and WEPO: A Reflective account of New Practices in a New Curriculum.” *Reflection and Metacognition in College Teaching. Eds. Matthew Kaplan, Naomi Silver, Danielle LaVaque-Manty, and Deborah Meizlish*](/prelims/posts/minor/yancey-graziano-lee-omalley/) | 2013
 
 ---
 
 ### Edited Collections
 
-Downing, David B.; Claude Mark Hurlbert; Paula Mathieu (Eds.), Beyond English, Inc.: Curricular reform in a global economy; Portsmouth, NH: Boynton/Cook.
+Downing, David B., Claude Mark Hurlbert, and Paula Mathieu (Eds.). *Beyond English, Inc.: Curricular reform in a global economy*; Portsmouth, NH: Boynton/Cook. 2002.
 
-Read | Notes | Post | Title
----|---|---|---
- | | | Goodburn, Amy, and Deborah Minter. “Concentrating English: Disciplinarity, Institutional Histories, and Collective Identity.” Pp. 139-150.
- | | | Zebroski, James Thomas. “Composition and Rhetoric, Inc: Life after the English Department at Syracuse University.” Pp. 164- 180.
+Author | Title | Pages
+---|---|---
+Goodburn, Amy, and Deborah Minter. | [“Concentrating English: Disciplinarity, Institutional Histories, and Collective Identity.”](/prelims/posts/minor/goodburn-minter/) | 139-150.
+Zebroski, James Thomas | [“Composition and Rhetoric, Inc: Life after the English Department at Syracuse University.”](/prelims/posts/minor/zebroski/) | 164- 180.
 
-Franke, David, Alex Reid, and Anthony Di Renzo, Eds. Design Discourse: Composing and Revising Programs in Professional and Technical Writing, 2010, WAC Clearninghouse/Parlor Press.
+Franke, David, Alex Reid, and Anthony Di Renzo, Eds. [*Design Discourse: Composing and Revising Programs in Professional and Technical Writing,*](https://wac.colostate.edu/books/perspectives/designdiscourse/) 2010, WAC Clearninghouse/Parlor Press.
 
-Read | Notes | Post | Title
----|---|---|---
- | | | Di Renzo, Anthony. “The Third Way: PTW and the Liberal Arts in the New Knowledge Society."
- | | | Reid, Alex. “The Write Brain: Professional Writing in the Post-Knowledge Economy”
- | | | Franke, David. “Curriculum, Genre and Resistance: Revising Identity in a Professional Writing Community.”
- | | | Henze, Brent, Wendy Sharer, and Janice Tovey. “Disciplinary Identities: Professional Writing, Rhetorical Studies, and Rethinking ‘English.’”
+Author | Title | Pages
+---|---|---
+Di Renzo, Anthony | [“The Third Way: PTW and the Liberal Arts in the New Knowledge Society."](/prelims/posts/minor/direnzo/) | 243-253
+Reid, Alex. | [“The Write Brain: Professional Writing in the Post-Knowledge Economy”](/prelims/posts/minor/reid/) | 254-273
+Franke, David | [“Curriculum, Genre and Resistance: Revising Identity in a Professional Writing Community.”](/prelims/posts/minor/franke/) | 113-130
+Henze, Brent, Wendy Sharer, and Janice Tovey | [“Disciplinary Identities: Professional Writing, Rhetorical Studies, and Rethinking ‘English.’”](/prelims/posts/minor/henze-sharer-tovey/) | 63-86
 
 ---
 
 ### Books
-Read | Notes | Post | Title
----|---|---|---
-X | X | X | [Watkins Jr., James Ray. A Taste for Language: Literacy, Class, and English Studies. Southern Illinois UP, 2009.](/prelims/posts/minor/watkins/)
+Author | Title | Date
+---|---|---
+Watkins Jr., James Ray | [*A Taste for Language: Literacy, Class, and English Studies*](/prelims/posts/minor/watkins/) | 2009
 
 [^1]: http://compositionforum.com/issue/21/minnesota-duluth.php
 [^2]: http://compositionforum.com/issue/22/oakland.php
