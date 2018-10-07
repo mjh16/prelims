@@ -6,7 +6,7 @@ tags = ["reference","invention","definition","historical","epistemology","hermen
 categories = "specialty"
 +++
 ## One Liner
-Defines invention as providing guidance into beginning writing, exploring ideas and arguemtns, framing insights, and examining writing situations and that it occurs within specific cultural, social, and historical contexts.
+Defines invention as providing guidance into beginning writing, exploring ideas and arguments, framing insights, and examining writing situations and that it occurs within specific cultural, social, and historical contexts.
 
 ## Summary
 Examines the history of invention in rhetoric and composition through two broad frames. The first covers issues in invention from classical through the mid-20th century, and the second from the mid-20th to ~2000. IN doing so, Lauer explores the difference between a classical view of invention, through the enlightenment, and finally in 20th century views, connections between theories of invention and classroom practice. The book also serves as a reference for invention, the history of invention, and keyterms for invention. It also works to make connections between inventional theory and composition pedagogy. Uses the trace and the references as a basis for a contemporary inventional pedagogy.
