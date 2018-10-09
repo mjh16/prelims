@@ -3,7 +3,7 @@ title = "James Berlin - Contemporary Composition: The Major Pedagogical Theories
 date = 2018-08-20T10:52:47-04:00
 draft = false
 tags = ["composition","pedagogy","foundations","overview","history","typology","taxonomy","80s","1982"]
-categories = "composition"
+categories = ["composition","flash-card"]
 +++
 ## One Liner
 Taxonomy of four major compositional theories which influence pedagogy.

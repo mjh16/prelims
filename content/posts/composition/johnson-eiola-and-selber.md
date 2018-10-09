@@ -3,7 +3,7 @@ title = "Johnson-Eilola, Johnson, and Stuart Selber. “Plagiarism, Originality,
 date = 2018-09-16T13:59:45-04:00
 draft = false
 tags = ["plagiarism","assemblage","work","labor","remix","return-to"]
-categories = "composition"
+categories = ["composition","flash-card"]
 +++
 ## One Liner
 Suggests that we should privilege problem solving in texts and writing over the creation of something original in composition.
@@ -20,4 +20,4 @@ In reframing as assemblage remix become the key concept and the organizing metap
   - Valuing of rhetorical flexibility and awareness over some aesthetic or creative value
 
 ## Uses, Thoughts, and Connections
-This is a very generative piece, and one that raises as many questions as it does answers, not only for digital writing but for composition more generally. It also asks us to question the underlying values and assumptions of composition and what it means to writer. Adds a dimension of thinking about writing beyond just academic contexts into others beyond the classroom. Also offers a different disciplinary lens. 
+This is a very generative piece, and one that raises as many questions as it does answers, not only for digital writing but for composition more generally. It also asks us to question the underlying values and assumptions of composition and what it means to writer. Adds a dimension of thinking about writing beyond just academic contexts into others beyond the classroom. Also offers a different disciplinary lens.
