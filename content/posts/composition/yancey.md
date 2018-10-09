@@ -3,7 +3,7 @@ title = "Yancey, Kathleen Blake - 'Made not only in Words: Composition in a New 
 date = 2018-09-17T23:20:46-04:00
 draft = false
 tags = ["everyday","curriculum","visual","multimodal","discipline","literacy"]
-categories = "composition"
+categories = ["composition","flash-card"]
 +++
 ## One Liner
 Changes in the nature of writing and the proliferation of composing outside the academy are creating a writing public that is digital, multimodal, and connected.

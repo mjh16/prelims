@@ -3,7 +3,7 @@ title = "Cooper, Marilyn. 'The Ecology of Writing.''"
 date = 2018-09-16T10:41:17-04:00
 draft = false
 tags = ["1986","ecology","pedagogy","social","embedded","theory","model","post-process"]
-categories = "composition"
+categories = ["composition","flash-card"]
 +++
 ## One Liner
 "Writing is one of the activities by which we locate ourselves in the embedded systems that make up the social world," in a way that is not just thinking but also acting
