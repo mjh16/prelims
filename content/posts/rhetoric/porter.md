@@ -3,7 +3,7 @@ title = "Porter - Recovering Delivery for Digital Rhetoric and Human Computer In
 date = 2018-09-04T22:10:29-04:00
 draft = false
 tags = ["digital","delivery","distribution","circulation","techne","praxis","Interdisciplinary","cyborg","action","embodiment","kairos"]
-categories = "rhetoric"
+categories = ["rhetoric","flashcard"]
 +++
 ### One Liner
 Rhetoric as a distributed and inventive force, and delivery as techne provides different frames for examining rhetoric in motion and in action.

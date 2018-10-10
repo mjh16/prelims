@@ -3,7 +3,7 @@ title = "Consigny"
 date = 2018-09-04T22:00:04-04:00
 draft = false
 tags = ["rhetorical-situation","history","foundational","exigence","audience","techne","genre","topoi","return-to"]
-categories = "rhetoric"
+categories = ["rhetoric","flashcard"]
 +++
 
 ### One Liner
