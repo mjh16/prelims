@@ -3,7 +3,7 @@ title = "Vatz - The Myth of the Rhetorical Situation"
 date = 2018-08-06T09:52:31-04:00
 draft = false
 tags = ["rhetorical-situation","audience","critique","exigence","return-to","invention"]
-categories = "rhetoric"
+categories = ["rhetoric","flashcard"]
 +++
 
 ### One Line

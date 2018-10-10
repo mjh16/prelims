@@ -106,7 +106,7 @@ Huizinga, Johan | [“Nature and Significance of Play as a Cultural Phenomenon.�
 Huizinga, Johan | [“The Play-Concept as Expressed in Language.” *Homo Ludens: a study of the play-element in culture*] (/prelims/posts/specialty/huizinga-play-concept/) | 1950
 Newcomb, Matthew | ["Sustainability as a Design Principle for Composition: Situational Creativity as a Habit of Mind." *College Composition and Communication*](/prelims/posts/specialty/newcomb/) | 2012
 Rouzie, Albert | [“Introduction: Play, Pleasure, and Writing Instruction.” At play in the fields of writing: a serio-Ludic Rhetoric](/prelims/posts/specialty/rouzie/) | 2005
-Santos, Marc C. and Megan M. McIntyre. ["Toward a Technical Communication Made Whole: Disequilibrium, Creativity, and Postpedagogy." *Composition Forum*](/prelims/posts/specialty/santos-mcintyre/) [^6] | 2016
+Santos, Marc C. and Megan M. McIntyre | ["Toward a Technical Communication Made Whole: Disequilibrium, Creativity, and Postpedagogy." *Composition Forum*](/prelims/posts/specialty/santos-mcintyre/) [^6] | 2016
 
 [^1]: http://ccdigitalpress.org/book/wonder/Chapter3.pdf
 [^2]: http://kairos.technorhetoric.net/11.3/binder.html?topoi/prior-et-al/index.html

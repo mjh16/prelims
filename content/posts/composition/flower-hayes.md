@@ -1,12 +1,13 @@
 +++
-title = "Flower Hayes"
+title = "Flower, Linda and John R. Hayes - 'A Cognitive Process Theory of Writing'"
 date = 2018-10-06T15:25:35-04:00
-draft = true
-tags = ["",""]
-categories = "composition"
+draft = false
+tags = ["interface","new-media",""]
+categories = ["composition","flash-card"]
 +++
 ## One Liner
-A one line to help remember.
+Towards a critical reading of interfaces.
+
 
 ## Summary
 What are the salient points. Think about what the piece is, the argument, etc

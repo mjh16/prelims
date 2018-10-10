@@ -3,7 +3,7 @@ title = "Brooke - Lingua Fracta"
 date = 2018-09-04T22:10:04-04:00
 draft = false
 tags = ["digital","canons","ecology","interface","trivium"]
-categories = ["rhetoric","monograph"]
+categories = ["rhetoric","monograph","flashcard"]
 +++
 ### One Liner
 Remediates the canons and the trivium for new media with interfaces and ecologies.
@@ -28,4 +28,4 @@ Turn to the canons as an ecology to "construct a rhetoric that will allow us to 
 The book serves as an articulation of practices and perspectives that may be turned towards new media and used in new media scholarship as a heuristic approach, and one that can be reproduced effectively across different interfaces and new media practices.
 
 ### Uses, Thoughts, and Connections
-Trivium as scales of activity - hmm, activity theory, assemblage knobs? Gets a bit heavy handed with making everything fit at times. Obvious connections to Delagrange and others in digital rhetoric. There is something here that is useful in thinking about texts as interfaces, and the myriad relationships that then go on around, in, through, beside, and with them. 
+Trivium as scales of activity - hmm, activity theory, assemblage knobs? Gets a bit heavy handed with making everything fit at times. Obvious connections to Delagrange and others in digital rhetoric. There is something here that is useful in thinking about texts as interfaces, and the myriad relationships that then go on around, in, through, beside, and with them.

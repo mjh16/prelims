@@ -14,7 +14,7 @@ weight = -3
 
 Author | Title | Pages
 ---|---|---
-Adams, Katherine H., and John L. Adams [“Advanced Composition: Where Did It Come From? Where is it going?”](/prelims/posts/minor/adams-adams/) | 3-15
+Adams, Katherine H., and John L. Adams | [“Advanced Composition: Where Did It Come From? Where is it going?”](/prelims/posts/minor/adams-adams/) | 3-15
 Carter, Michael | [“What is Advanced about Advanced Composition?: A Theory of Expertise in Writing.” Pp. 59-70.](/prelims/posts/minor/carter) | 59-70
 Keene, Michael L., and Ray Wallace | [“Advanced Writing Courses and Programs.”](/prelims/posts/minor/keene-wallace/) | Pp. 89-100
 Anderson, Charles | [“Coming into the Country..and living There: Literary nonfiction and Discourse Communities.”](/prelims/posts/minor/anderson/) | Pp. 223-247.
@@ -36,10 +36,6 @@ Giberson, Greg A., and Thomas A. Moriarty | [“Introduction: Forging Connection
 Mattingly, Rebecca de Wind, and Patricia Harkin | [“A Major in Flexibility.”](/prelims/posts/minor/dewind-harkin/) | 13-31.
 Dick, Rodney F | [“The Writing Major as Shared Commitment.”](/prelims/posts/minor/dick/) | 98-129
 Tweedie Sanford, Jennifer Courtney, and William I. Wolff | [“What Exactly is this Major?’ Creating Disciplinary Identity through an Introductory Course.”](/prelims/posts/minor/tweedie_sanford-wolff/) | 260-276.
-
-Author | Title | Date
----|---|---
-Howard, Rebecca Moore | ["History, Politics, Pedagogym and Advanced Writing," *Coming of age: The advanced writing curriculum*](/prelims/posts/minor/howard-advanced-comp/) | 2000
 
 ---
 
@@ -82,6 +78,7 @@ Cushman, Ellen | [“Vertical Writing Programs in Departments of Rhetoric and Wr
 Fulkerson, Richard | [“Conjectures on (Advanced?) Composition and Its Teaching.” *Journal of Advanced Composition*](/prelims/posts/minor/fulkerson-conjectures/) | 1980
 Fulkerson, Richard | [“Some Theoretical Speculations on the Advanced Composition Curriculum.” *Journal of Advanced Composition*](/prelims/posts/minor/fulkerson-theoretical/) | 1980
 Gebhardt, Richard | [“The Subject Is Writing.” *Journal of Advanced Composition*](/prelims/posts/minor/gebhardt/) | 1980
+Howard, Rebecca Moore | ["History, Politics, Pedagogym and Advanced Writing," *Coming of age: The advanced writing curriculum*](/prelims/posts/minor/howard-advanced-comp/) | 2000
 Jamieson, Sandra | [“The Major in Composition, Writing, and Rhetoric: Tracking Changes in the Evolving Discipline.” Composition, Rhetoric, and Disciplinarity, Eds. Rita Malenczyk, Susan Miller-Cochran, Elizabeth Wardle, and Kathleen Blake Yancey](/prelims/posts/minor/jamieson-major/) | 2018
 Lovitt, Carl R | [“Literature Requirements in the Curricula of Writing Degrees and Concentrations: Examining a Shifting Institutional Relationship.” *WPA: Writing Program Administration*](/prelims/posts/minor/lovitt/) | 2005
 Ostergaard, Lori and Greg A. Giberson | [“Program profile: Unifying program goals: Developing and implementing a writing and rhetoric major at Oakland University.” *Composition Forum*](/prelims/posts/minor/ostergaard-giberson/) [^2] | 2010

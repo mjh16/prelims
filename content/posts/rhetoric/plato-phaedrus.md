@@ -3,10 +3,10 @@ title = "Plato Phaedrus"
 date = 2018-09-04T22:07:04-04:00
 draft = false
 tags = ["classical","morals","ethics","role","place","plato","epistemology","system","orality","literacy","education","persuasion"]
-categories = "rhetoric"
+categories = ["rhetoric","flashcard"]
 +++
 ### One Liner
-Phaedrus and Socrates wax poetic about love, and discover the truth about rhetoric, and its pursuit of Truth.
+Phaedrus and Socrates wax poetic about love, and discover the truth about rhetoric and its pursuit of Truth along the way.
 
 ### Summary
 Uses the occassion of Lysias's written speech, in a dialogue between Phaedrus and Socrates, to discuss the nature of discourse and language. Discuss what the role of rhetoric is by examining, revising, discussing, reading, and creating speeches in inspiration of this one. Also considers the differences between written language and oral language are different. Portability, timelessness, not as dynamic, can't speak back.

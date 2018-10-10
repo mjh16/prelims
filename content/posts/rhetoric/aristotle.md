@@ -3,7 +3,7 @@ title = "Aristotle - Rhetoric"
 date = 2018-09-04T22:03:17-04:00
 draft = false
 tags = ["classical","taxonomies","typologies","enthymeme","persuasion","kairos"]
-categories = "rhetoric"
+categories = ["rhetoric","flashcard"]
 +++
 ## One Liner
 Rhetoric is the art of finding, in any given case, the available means of persuasion.

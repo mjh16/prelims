@@ -3,7 +3,7 @@ title = "Perelman"
 date = 2018-09-04T22:06:49-04:00
 draft = false
 tags = ["adherance","presence","argument","rhetoric","Persuasion","philosophy"]
-categories = "rhetoric"
+categories = ["rhetoric","flashcard"]
 +++
 ### One Liner
 Rhetoric is the primary way of understanding language using systems.

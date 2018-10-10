@@ -2,8 +2,8 @@
 title = "Hawhee Messaris What's Visual about 'Visual Rhetoric’?"
 date = 2018-09-04T22:07:45-04:00
 draft = true
-tags = ["visual",""]
-categories = "rhetoric"
+tags = ["visual","return-to"]
+categories = ["rhetoric","flashcard"]
 +++
 ### One Liner
 A one line to help remember.

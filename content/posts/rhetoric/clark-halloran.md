@@ -3,7 +3,7 @@ title = "Gregory Clark and S. Michael Halloran - Oratorical Culture in Nineteent
 date = 2018-09-04T22:05:00-04:00
 draft = false
 tags = ["19th-century","American","public-discourse","oratory","ideology","return-to"]
-categories = "rhetoric"
+categories = ["rhetoric","flashcard"]
 +++
 ## One Liner
 Illustrates how oratorical culture in 19th century America represents a transformation to a distinctly American ideology resting on the knowledge of the individual, that informs the pedagogy, practice, and theory of contemporary rhetoric.
