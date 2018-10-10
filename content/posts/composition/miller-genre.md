@@ -3,7 +3,7 @@ title = "Miller, Susan - 'Genre as Social Action'"
 date = 2018-09-19T22:34:03-04:00
 draft = false
 tags = ["genre","social","reoccurring","rhetorical-situation","return-to","method","methodology"]
-categories = "composition"
+categories = ["composition","flash-card"]
 +++
 ## One Liner
 Genre is social action made of rhetorical and semiotic forms and substances which arise out of reoccurring social situations.
