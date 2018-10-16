@@ -1,15 +1,14 @@
 +++
-title = "Selfe Selfe"
+title = "Selfe, Cynthia L. and Richard Selfe 'Politics of the Interface: Power and its Exercise in Electronic Contact Zones'"
 date = 2018-10-06T15:50:37-04:00
-draft = true
-tags = ["",""]
+draft = false
+tags = ["contact-zone","interface","digital","pedagogy","critical"]
 categories = "composition"
 +++
 ## One Liner
-A one line to help remember.
+Examining digital interfaces as linguistic contact zones encourages a critical and reflective approach to the use of computers in composition classrooms.
 
 ## Summary
-What are the salient points. Think about what the piece is, the argument, etc
-
+Selfe and Selfe highlight en
 ## Uses, Thoughts, and Connections
 What do you think about it, how might you use this, does it fit?
