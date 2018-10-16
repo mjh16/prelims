@@ -1,5 +1,5 @@
 +++
-title = "Elbow, Peter - "About Voice and Writing""
+title = "Elbow, Peter - 'About Voice and Writing'"
 date = 2018-10-06T15:19:06-04:00
 draft = false
 tags = ["voice","writing"]
