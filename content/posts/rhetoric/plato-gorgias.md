@@ -19,6 +19,7 @@ Rhetoric is bad and it killed Socrates.
 Extended dialogue in which the nature and place of rhetoric is discussed. Pits Plato's view of the sophists and their abuses of rhetoric versus his own philosophical idealism. Sees this works as a response to "Bad Rhetoric." Sets philosophy and dialectic as the response to rhetoric, and that while rhetoirc has its place and its value it is limited in scope and should be used judiciously and appropriately. Concerned with defining rhetoric, its relationship to knowledge, and its value. Also concerned with "bad rhetors" and how people who use rhetoric should be prepared to do so.
 
 Sets up binaries to discuss good rhetoric vs. bad rhetoric and to explore the roles of rhetoric and philosophy
+
 - good/bad
 - just/injust
 - moral/immoral

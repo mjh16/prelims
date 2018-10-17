@@ -10,5 +10,6 @@ Examining digital interfaces as linguistic contact zones encourages a critical a
 
 ## Summary
 Selfe and Selfe highlight en
+
 ## Uses, Thoughts, and Connections
 What do you think about it, how might you use this, does it fit?

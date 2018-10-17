@@ -14,6 +14,7 @@ Assemble a theory of visual argumentation that is different from verbal persuasi
 Verbal and visual arguments are not the equivalent or identical, but both are persuasive. Like words, visuals also must be understood in context, for both analysis and production, to see how they are visually persuasive and argumentative. In adding context, sequence, and culture together extend the idea of the enthymeme. Additionally, visual culture offers broad design narratives that are also understood by producers and viewers, and that work on levels of resemblance and representation towards arguments.
 
 A theory of visual argument should identify how we can: (318)
+
 1. Identify the internal elements of a visual image
 2. understand the context in which images are interpreted
 3. establish the consistency of an interpretation of the visual

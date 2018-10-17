@@ -27,8 +27,8 @@ Trinh T. Minh-ha | *[Woman, Native, Other: Writing Postcoloniality and Feminism]
 ### Burke, Kenneth.
 Title | Date
 ---|---
-*[A Grammar of Motives](/prelims/posts/rhetoric/burke-grammar)* | 1945
-**_[A Rhetoric of Motives](/prelims/posts/rhetoric/burke-rhetoric)_** | 1952
+**_[A Grammar of Motives](/prelims/posts/rhetoric/burke-grammar)_** | 1945
+_[A Rhetoric of Motives](/prelims/posts/rhetoric/burke-rhetoric)_ | 1952
 **[“Terministic Screens.”](/prelims/posts/rhetoric/burke-terministic-screens)** | 1966
 **[“Definition of Man.”](/prelims/posts/rhetoric/burke-definition-of-man)** | 1966
 

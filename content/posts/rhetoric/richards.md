@@ -1,5 +1,5 @@
 +++
-title = "Richards - The Philosophy of Rhetoric"
+title = "I. A. Richards - The Philosophy of Rhetoric"
 date = 2018-09-08T18:05:52-04:00
 draft = false
 tags = ["metaphor","interinanimation","return-to"]
@@ -16,6 +16,8 @@ Pushes against traditional understandings of rhetoric as correctness, usage, and
 - interinanimation of words - words work with one another in generative ways. Cannot be judged in isolation, and the interdependence with one another produces action and meaning. Audience brings interpretation to the words
 - Metaphor - more than just style or embellishment. Two thoughts in a single word or phrase. Metaphors are inventive and generative, they make meaning
   - *Tenor and Vehicle*
+    - Tenor = Concept, object, or person
+    - Vehicle = the image that carries the weight of the comparison
 - Words and usage
 
 ### Uses, Thoughts, and Connections
