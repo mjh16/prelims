@@ -12,6 +12,7 @@ Phaedrus and Socrates wax poetic about love, and discover the truth about rhetor
 Uses the occassion of Lysias's written speech, in a dialogue between Phaedrus and Socrates, to discuss the nature of discourse and language. Discuss what the role of rhetoric is by examining, revising, discussing, reading, and creating speeches in inspiration of this one. Also considers the differences between written language and oral language are different. Portability, timelessness, not as dynamic, can't speak back.
 
 Rhetoric, when used well:
+
 - Knows the soul
 - Knows how to react/analyze
 - Revise to be effective

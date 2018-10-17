@@ -1,7 +1,7 @@
 +++
-title = "Huizinga Play Concept"
+title = "Johann Huizinga Play Concept"
 date = 2018-10-05T20:58:10-04:00
-draft = true
+draft = false
 tags = ["",""]
 categories = "specialty"
 +++

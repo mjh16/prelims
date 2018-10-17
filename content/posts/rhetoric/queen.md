@@ -1,5 +1,5 @@
 +++
-title = "Queen - Transnational Rhetorics in a Digital World."
+title = "Mary Queen - Transnational Rhetorics in a Digital World."
 date = 2018-09-04T22:10:25-04:00
 draft = false
 tags = ["digital","transnational","digital","circulation","appropriation","methodology","geneology","fields"]
@@ -9,7 +9,7 @@ categories = "rhetoric"
 Uses discourse surrounding RAWA to examine the role of the circulation of digital texts in the transformation and appropriation of feminist discourse.
 
 ### Summary
-Examines the circulation of digital textxs of RAWA and Afghan women to examine how digital circulation often "constructs and reinforces binary oppositions and rhetoircs of superiority" (472). Uses RAWA and the construction and circulation of Afghan women's stories to visualize and conceptualize the often invisible and transparent nature and processes of circulation of these texts. See the political and the rhetorical.
+Examines the circulation of digital texts of RAWA and Afghan women to examine how digital circulation often "constructs and reinforces binary oppositions and rhetorics of superiority" (472). Uses RAWA and the construction and circulation of Afghan women's stories to visualize and conceptualize the often invisible and transparent nature and processes of circulation of these texts. See the political and the rhetorical.
 
 Proposes global fields of rhetorical action to describe these circulations, and as more accurate basis for circulation than spatial or networked metaphors. The forces within the fields that texts passthrough reshape the meaning as they circulate, and to examine digital texts as a series of evolving rhetorical actions emerge from and circulating through many different contexts (475). Proposes a methodology of rhetorical genealogy to trace back history and relationships of circulated digital texts.
 
