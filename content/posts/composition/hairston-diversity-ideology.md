@@ -1,5 +1,5 @@
 +++
-title = "Hairston Diversity Ideology"
+title = "Maxine Hairston - 'Diversity, Ideology, and the Teaching of Writing'"
 date = 2018-10-06T15:19:47-04:00
 draft = true
 tags = ["",""]
