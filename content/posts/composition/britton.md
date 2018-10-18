@@ -1,7 +1,7 @@
 +++
-title = "Britton"
+title = "James Britton - 'Writing to Learn and Learning to Write'"
 date = 2018-10-06T15:18:01-04:00
-draft = true
+draft = false
 tags = ["",""]
 categories = "composition"
 +++
