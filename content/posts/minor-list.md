@@ -72,7 +72,7 @@ Geiger II, TJ | [“An intimate discipline? Writing studies, undergraduate major
 
 Author | Title | Date
 ---|---|---
-Balzhiser, Deborah and Susan H. McLeod | [“The undergraduate writing major: What is it? what should it be?” *College Composition and Communication*](/prelims/posts/minor/Balzhiser-mcleod/) | 2010
+Balzhiser, Deborah and Susan H. McLeod | [“The undergraduate writing major: What is it? what should it be?” *College Composition and Communication*](/prelims/posts/minor/balzhiser-mcleod/) | 2010
 Beard, David | [“The case for a major in writing studies: The University of Minnesota Duluth.” *Composition Forum* ](/prelims/posts/minor/beard/) [^1] | 2010
 Cushman, Ellen | [“Vertical Writing Programs in Departments of Rhetoric and Writing.” *Composition Studies in the New Millennium: Rereading the Past, Rewriting the Future* Eds. Lynn Z. Bloom, Donald A. Daiker, and Edward M. White.](/prelims/posts/minor/cushman) | 2003
 Fulkerson, Richard | [“Conjectures on (Advanced?) Composition and Its Teaching.” *Journal of Advanced Composition*](/prelims/posts/minor/fulkerson-conjectures/) | 1980
