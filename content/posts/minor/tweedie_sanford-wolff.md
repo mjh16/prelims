@@ -1,5 +1,5 @@
 +++
-title = "Tweedie_sanford Wolff"
+title = "Sanford Wolff"
 date = 2018-10-06T17:21:27-04:00
 draft = true
 tags = ["",""]
