@@ -1,7 +1,7 @@
 +++
 title = "Peggy O'Neill and Barbara Mallonee"
 date = 2018-10-06T17:17:21-04:00
-draft = False
+draft = false
 tags = ["liberal-arts","independent","profile","local-history","Writing-Majors"]
 categories = "minor"
 +++
