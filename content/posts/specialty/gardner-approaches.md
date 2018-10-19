@@ -1,5 +1,5 @@
 +++
-title = "Gardner"
+title = "Howard Gardner"
 date = 2018-10-05T18:53:18-04:00
 draft = true
 tags = ["",""]
