@@ -1,4 +1,4 @@
-baseURL = "https://michaelhealy.space/prelims/"
+baseURL = "https://mjh16.github.io/prelims/"
 languageCode = "en-us"
 title = "Michael's Prelims Site"
 publishdir = "docs"
